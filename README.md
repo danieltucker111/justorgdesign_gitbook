@@ -5,7 +5,7 @@ coverY: 0
 
 # What is a JustOrg Design
 
-## What is a JustOrg Design
+## What is a JustOrg Design?
 
 Let’s start with a question. In the last 5 years, how many times have you been part of conversations like the ones below?
 
