@@ -7,4 +7,3 @@
 * [Decision Making](decision-making.md)
 * [JoD Roles](jod-roles.md)
 * [JoD Glossary of Terms](jod-glossary-of-terms.md)
-* [Table of contents](toc.md)
