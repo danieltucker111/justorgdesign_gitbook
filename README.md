@@ -7,7 +7,7 @@ coverY: 0
 
 ## What is a JustOrg Design
 
-Let’s start with a question. In the last 5 years, how many times have you been part of conversations like the ones below? This should be deleted. 
+Let’s start with a question. In the last 5 years, how many times have you been part of conversations like the ones below?
 
 * Do we really need a management team anymore? What do they actually do? Can it function equitably?
 * Is our internal racial equity work best led by a single position? By a task force? By a standing cross-departmental team?
@@ -15,7 +15,7 @@ Let’s start with a question. In the last 5 years, how many times have you been
 * Should we have a decision-making ethos and method that is organization-wide? If so, should it be consensus or modified consensus or majority or something else?
 * Are there any decisions that our executive director(s) alone can make? Is it more that they have veto power when the stakes are high?
 
-We could go on, but we think you get a sense of the kinds of conversations we mean. If your answer is “I have been in a whole lot of these types of conversations,” then this guide is written directly to you.We too have been part of many, many of these types of conversations. Both as leaders and consultants to leaders. And here’s what we have come to realize**.**Leaders in progressive organizations are in a constant state of organizational design.What do we mean by “organizational design”? We mean all of the steps we take as leaders to make our organizational structure and decision-making more reflective of our values and more conducive to driving social justice strategies. Here’s a short list of the kind of steps we mean:
+We could go on, but we think you get a sense of the kinds of conversations we mean. If your answer is “I have been in a whole lot of these types of conversations,” then this guide is written directly to you.We too have been part of many, many of these types of conversations. Both as leaders and consultants to leaders. And here’s what we have come to realize\*\*.\*\*Leaders in progressive organizations are in a constant state of organizational design.What do we mean by “organizational design”? We mean all of the steps we take as leaders to make our organizational structure and decision-making more reflective of our values and more conducive to driving social justice strategies. Here’s a short list of the kind of steps we mean:
 
 * re-configuring and/or sunsetting leadership teams
 * re-configuring and/or sunsetting departments
