@@ -35,5 +35,3 @@ As with all collective groupings (families, teams, workforce groupings), culture
 > “A Racial Equity Impact Assessment (REIA) is a systematic examination of how different racial and ethnic groups will likely be affected by a proposed action or decision. REIAs are used to minimize unanticipated adverse consequences in a variety of contexts, including the analysis of proposed policies, institutional practices, programs, plans and budgetary decisions. The REIA can be a vital tool for preventing institutional racism and for identifying new options to remedy long-standing inequities.”
 >
 > \- [Race Forward](https://web.archive.org/web/20210227211009/https://www.raceforward.org/practice/tools/racial-equity-impact-assessment-toolkit)
-
-jeanne to add more here.
