@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg
-coverY: -101.47274749721913
+cover: .gitbook/assets/christina-wocintechchat-com-faEfWCdOKIg-unsplash (1).jpg
+coverY: -112.35387962291516
 ---
 
 # Structure: Table Meeting Design & Facilitation

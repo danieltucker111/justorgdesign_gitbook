@@ -1,9 +1,9 @@
 ---
 cover: .gitbook/assets/tim-peterson-KHrwWI5rdo8-unsplash.jpg
-coverY: 53.55184916606236
+coverY: 163.80565627266134
 ---
 
-# Strategies
+# Strategy
 
 Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8)
 

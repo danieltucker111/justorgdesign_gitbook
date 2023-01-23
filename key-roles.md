@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/pexels-kindel-media-7688159.jpg
-coverY: 25.200870195794053
+cover: .gitbook/assets/pexels-kindel-media-7688159 (1).jpg
+coverY: 32.55112400290065
 ---
 
 # Key Roles
