@@ -17,12 +17,12 @@ In JustOrg Design, we very intentionally use the term decision-to-be-made or DTB
 
 Indications that a decision is associated with advancing strategy and thus appropriate for a Table to work on collectively:
 
-* The decision will significantly change how we design and deliver key aspects of our work
-* The decision will affect multiple functions/departments of the organization
-* The decision will involve discontinuing a current practice or program
-* The decision will involve adding a new practice or program
-* The decision will involve adding or changing the nature of a key organizational partnership or funding relationship
-* The decision will significantly affect our employee culture and/or quality of employment experience
+* [ ] The decision will significantly change how we design and deliver key aspects of our work
+* [ ] The decision will affect multiple functions/departments of the organization
+* [ ] The decision will involve discontinuing a current practice or program
+* [ ] The decision will involve adding a new practice or program
+* [ ] The decision will involve adding or changing the nature of a key organizational partnership or funding relationship
+* [ ] The decision will significantly affect our employee culture and/or quality of employment experience
 
 Not all of these things will be present in a single DTBM; these are _potential indications_ that a decision should be treated as a DTBM.
 
