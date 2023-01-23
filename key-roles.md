@@ -3,13 +3,13 @@ cover: .gitbook/assets/pexels-kindel-media-7688159.jpg
 coverY: 25.200870195794053
 ---
 
-# KEY ROLES
+# Key Roles
 
 Image credit: [Kindel Media on pexels](https://www.pexels.com/photo/group-of-people-putting-their-hands-together-7688159/)
 
 ## **What do we mean?**
 
-There are four (4) roles that are specific to implementing JustOrg Design. It is not possible to fully implementJustOrg Design as intended without people stepping with energy and consistency into these roles. However, none of these roles is permanent. They can all rotate over time to adjust to people’s capacity and to give new people opportunities for leadership development. They are:
+There are four (4) roles that are specific to implementing JustOrg Design. It is not possible to fully implement JustOrg Design as intended without people stepping with energy and consistency into these roles. However, none of these roles is permanent. They can all rotate over time to adjust to people’s capacity and to give new people opportunities for leadership development. They are:
 
 1. **Table Participants**\
    ****Attend Table meetings; engage thoughtfully; hold power consciously; interpret strategy; learn; influence and be influenced; participate in decision-making.
