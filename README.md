@@ -1,37 +1,67 @@
 ---
-cover: .gitbook/assets/0_1nfW3-cqwWkBkPGp.jpeg
-coverY: 0
+cover: .gitbook/assets/tim-peterson-KHrwWI5rdo8-unsplash.jpg
+coverY: 53.55184916606236
 ---
 
-# What is a JustOrg Design
+# Strategies
 
-## What is a JustOrg Design
+Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8)
 
-Let’s start with a question. In the last 5 years, how many times have you been part of conversations like the ones below?
+## **What do we mean?**
 
-* Do we really need a management team anymore? What do they actually do? Can it function equitably?
-* Is our internal racial equity work best led by a single position? By a task force? By a standing cross-departmental team?
-* Human Resources is so much more than payroll and compliance now. Do we need an Employee Wellness Team?
-* Should we have a decision-making ethos and method that is organization-wide? If so, should it be consensus or modified consensus or majority or something else?
-* Are there any decisions that our executive director(s) alone can make? Is it more that they have veto power when the stakes are high?
+In JustOrg Design, we think of strategy as the _current_—the common energy source that orients and propels the diverse, passionate hearts and minds of an organization. We like the analogy of the momentum of a strong river current as well as the second meaning of current as “of this time.”
 
-We could go on, but we think you get a sense of the kinds of conversations we mean. If your answer is “I have been in a whole lot of these types of conversations,” then this guide is written directly to you.We too have been part of many, many of these types of conversations. Both as leaders and consultants to leaders. And here’s what we have come to realize\*\*.\*\*Leaders in progressive organizations are in a constant state of organizational design.What do we mean by “organizational design”? We mean all of the steps we take as leaders to make our organizational structure and decision-making more reflective of our values and more conducive to driving social justice strategies. Here’s a short list of the kind of steps we mean:
+In other words, strategy is what we _currently_ believe to be the best ways to approach our work given everything going on in and around our organization and the movements we work in. We know these approaches must and will evolve over time.
 
-* re-configuring and/or sunsetting leadership teams
-* re-configuring and/or sunsetting departments
-* creating a racial justice team or task force
-* moving from a single executive to co-executive directors
-* creating task forces to reimagine key systems like hiring, compensation, or employee development
-* adopting new methods for meeting design and facilitation
-* adopting new methods for clear decision-making
-* adopting new methods for community participation in decision-making
+Some might argue that values are the current, but our experience teaches us otherwise.
 
-So as progressive leaders, why are we in this seemingly constant state of organizational design? Because as progressive people, we are deeply concerned with not replicating systems of oppression inside as we work to upend oppression outside. Through the design and redesign of our organizational structures and practices, we are experimenting with ways of distributing power. Ways of centering historically excluded people in our decision-making. Ways of transmuting the evocative language of our values and strategies into actually different ways of being and doing.It’s powerful to pause and reflect on how much organizational design work you and your colleagues have already done. To honor how challenging this work is. To own how sometimes your design efforts moved your organization forward and sometimes they actually caused harm.The truth is “organizational design” is nobody’s job, is it? Leaders and leadership teams engage in it regularly but…YOUR JoD work is ONGOING AND SO IS OUR STUDY OF AND PURPOSE-DRIVEN NATURE OF THIS PROCESS AND APP. THAT’S ALL WE ARE FOCUSED ON.
+Values are essential. But without a shared commitment to a set of strategies that embody those values and further direct and propel how we’ll approach the work we take on together, deep alignment—and thus sustained impact—elude us.
 
-> “Colonial, white supremacist organizational practices seem inevitable…and they still govern the great majority of our institutions, but they were design choices. This means that other choices are available, even when they seem far-fetched. We know what organizations look like, feel like, and function like when they are inspired by the colonizers’ principles of separation, competition, and exploitation. How would organizations’ design choices be different if they were based on principles like integration and interdependence, reciprocity, and relationship?”-Decolonizing Wealth: Indigenous Wisdom to Heal Divides and Restore BalanceManuel Pastor
+We think leaders in justice-driven organizations are, or need to be, combining three mutually reinforcing tenets of strategy: what we practice, how we create change, and what attracts resources.
 
-As with all collective groupings (families, teams, workforce groupings), culture can shift in an instant… Focusing questions like “who benefits from this decision or action?” And a clear definition of culture (one I like: “everything that a group chooses to celebrate, commemorate, or tolerate), this board uses curiosity, play and a focus on #1 to help maintain perspective.
+The three writers/practitioners below guide us in thinking in these three complementary ways about strategy.
 
-> “A Racial Equity Impact Assessment (REIA) is a systematic examination of how different racial and ethnic groups will likely be affected by a proposed action or decision. REIAs are used to minimize unanticipated adverse consequences in a variety of contexts, including the analysis of proposed policies, institutional practices, programs, plans and budgetary decisions. The REIA can be a vital tool for preventing institutional racism and for identifying new options to remedy long-standing inequities.”
->
-> \- [Race Forward](https://web.archive.org/web/20210227211009/https://www.raceforward.org/practice/tools/racial-equity-impact-assessment-toolkit)
+1. adrienne maree brown: [Emergent Strategy](https://www.akpress.org/emergentstrategy.html)\
+   \
+   adrienne maree brown takes the natural world and the science fiction of Octavia Butler as guides and offers us inspiration on strategy as intentional practice. \
+   \
+   Key Insight: “Emergent strategies let us practice, in every possible way, the world we want to see.”\
+
+2.  Jara Dean-Coffey: [A Master Class for Linking Strategy & Evaluation](https://store.nonprofitquarterly.org/products/evaluative-practice-a-master-class-for-nonprofit-leaders-on-linking-strategy-and-evaluation)
+
+    \
+    Dean-Coffey and her firm [jdcParterships](https://www.jdcpartnerships.com/offerings) employ a theory-of-change (evaluative) framework and offer us inspiration on strategy as core methods for pursuing the change we seek.
+
+    \
+    Key Insight: “Strategies are cross-cutting methods/means used to work toward the change the organization seeks.”\
+
+3.  Roger Martin: [A Plan Is Not A Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)\
+    \
+    Martin writes about for-profit strategy and offers us inspiration on strategy as risk-taking in pursuit of a resource advantage.
+
+    \
+    Key Insight: “Strategy is an integrative set of choices that positions you on a playing field of your choice in a way that you win.”
+
+As distinct as these three practitioners may seem, they share a conceptualization of strategy as an organization's _theory_ of how a set of behaviors and approaches, if applied rigorously, can result in meaningful change.
+
+## **Why is it important?**
+
+Organizational strategy transcends positional power, functional departments, job descriptions, and budget line items. It’s bigger, more cross-cutting, and more unifying than any of those things. It's the primary source of both alignment and accountability across all of an organization's work.&#x20;
+
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
+Without compelling strategy, we are unmoored; mistrust and conflict ensue as people inevitably make conflicting assumptions about what to do and employ divergent methods to do it. That’s why strategy is the centerpiece of organizational design as we define it.
+
+Strategy is also the basis of strong decision-making. Decisions as seemingly small as which caterer to use for a convening to as seemingly big as whether to discontinue a long-held program should be explicitly tied to strategy.
+
+By making decisions consciously and explicitly in light of strategy, we learn and in turn can iterate our strategies to be even more relevant, or _current_.
+
+## **How does it work in the JustOrg Design application?**
+
+Again, strategy is _central_ to the entire JustOrg Design process and software. It is supported in multiple ways in the application, including:
+
+1. **Capture Strategies:** The application is where you capture and update your organizational strategies so that they are always current and always accessible. They should no longer be kept in disparate documents and PPT decks to which few people have access. Strategies, like values, are captured on the left navigation bar of the application under the heading, Org Frame.
+2. **Associate Strategies with a Table:** In the Table Details section associated with every Table, there is a field called, Activates Strategy(s). This is a drop-down menu that includes all of the current organizational strategies. Here, you can identify which strategy or strategies the Table is particularly charged with activating.
+3. **Associate Strategies with a Meeting Topic:** In Section Two of the Agenda Builder, you will find a field called Meeting Related Strategies and DTBMs. There is where the Convener of the meeting can alert participants that the meeting’s topics will reference one or more organizational strategies. This helps to keep strategy front and center as participants are engaging in the agenda discussions.
+4. **Associate Strategies with a Decision-to-be-Made (DTBM):** In the DTBM Details section associated with every DTBM, there is a field called, Activates Strategy(s). This is a drop-down menu that includes all of the current organizational strategies. Here, you can identify which strategy or strategies the DTBM will activate.
+5. **Associate Strategies with a Decision:** When a decision is made and closed in the application, you will be asked which strategy(s) were most amplified by the outcome of this decision. The system will auto-populate the strategy(s) you anticipated at the DTBM phase, but you are able to add or edit this to what actually took place in making the decision.
