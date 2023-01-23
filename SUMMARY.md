@@ -8,3 +8,4 @@
 * [Decision Making](decision-making.md)
 * [JoD Roles](jod-roles.md)
 * [JoD Glossary of Terms](jod-glossary-of-terms.md)
+* [Strategies](strategies.md)

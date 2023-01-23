@@ -1,6 +1,6 @@
 # Strategy
 
-<figure><img src="../.gitbook/assets/0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **What do we mean?**
 
