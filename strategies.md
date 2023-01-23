@@ -46,10 +46,12 @@ As distinct as these three practitioners may seem, they share a conceptualizatio
 
 ## **Why is it important?**
 
-Organizational strategy transcends positional power, functional departments, job descriptions, and budget line items. It’s bigger, more cross-cutting, and more unifying than any of those things. It's the primary source of both alignment and accountability across all of an organization's work.&#x20;
+Organizational strategy transcends positional power, functional departments, job descriptions, and budget line items. It’s bigger, more cross-cutting, and more unifying than any of those things. It's the primary source of both alignment and accountability across all of an organization's work. \
 
-<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption><p><br>decisions are strategy activated</p></figcaption></figure>
+
+\
 Without compelling strategy, we are unmoored; mistrust and conflict ensue as people inevitably make conflicting assumptions about what to do and employ divergent methods to do it. That’s why strategy is the centerpiece of organizational design as we define it.
 
 Strategy is also the basis of strong decision-making. Decisions as seemingly small as which caterer to use for a convening to as seemingly big as whether to discontinue a long-held program should be explicitly tied to strategy.
