@@ -3,13 +3,13 @@ cover: .gitbook/assets/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg
 coverY: -101.47274749721913
 ---
 
-# Table Meeting Design & Facilitation
+# Structure: Table Meeting Design & Facilitation
 
 Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/faEfWCdOKIg)
 
 ## **What do we mean?**
 
-By Table Meeting Design, we mean the intentional creation of an agenda that is distributed prior to a Table Meeting and intended to engage Table members in a strategic conversation. When we design an agenda, we consider four things: meeting objectives, meeting attendees, meeting topics, and meeting engagement techniques.
+By Table Meeting design and facilitation, we mean the intentional creation of an agenda that is distributed prior to a Table Meeting and intended to engage Table members in a strategic conversation. When we design an agenda, we consider four things: meeting objectives, meeting attendees, meeting topics, and meeting engagement techniques.
 
 ![](<.gitbook/assets/2 (2).png>)
 
