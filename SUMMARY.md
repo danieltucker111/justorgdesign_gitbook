@@ -9,3 +9,4 @@
 * [JoD Roles](jod-roles.md)
 * [JoD Glossary of Terms](jod-glossary-of-terms.md)
 * [Strategies](strategies.md)
+* [Table Meeting Design & Facilitation](table-meeting-design-and-facilitation.md)

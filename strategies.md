@@ -5,7 +5,7 @@ coverY: 53.55184916606236
 
 # Strategies
 
-Image credits: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8)
+Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8)
 
 ## **What do we mean?**
 
