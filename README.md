@@ -9,9 +9,7 @@ Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)
 
 **Our mission is to help organizations operationalize their values and strategies through structure and decision-making.**
 
-In justice organizations, our expectations of work structures and processes are fundamentally different than in mainstream nonprofits. We created JustOrg Design specifically for leaders actively rethinking traditional ways of holding power and working to distribute decision-making in concert with their values of inclusion and justice.
-
-JustOrg Design helps organizations to get out of structural limbo: unwilling to sustain structures that have lost relevance but unsure of where to go next.
+In justice organizations, our expectations of work structures and processes are fundamentally different than in mainstream nonprofits and philanthropies. We created JustOrg Design specifically for leaders actively rethinking traditional ways of holding power and working to distribute decision-making in concert with their values of inclusion and justice.
 
 We take as inspiration what the the renowned abolitionist and scholar Ruth Wilson Gilmore recently said:
 
@@ -23,4 +21,4 @@ We take as inspiration what the the renowned abolitionist and scholar Ruth Wilso
 
 **JustOrg Design is the missing linkage: strategy →  structure → decision-making**
 
-<figure><img src=".gitbook/assets/JoD Diagram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/JoD Diagram (1).png" alt=""><figcaption></figcaption></figure>

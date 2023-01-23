@@ -43,11 +43,11 @@ By Table Meeting Design, we mean the intentional creation of an agenda that is d
 
 ## **Why is it important?**
 
-Table Meeting design and facilitation are absolutely essential to the quality of strategic conversations at Tables, and thus to organizational strategic alignment. People need time in advance to prepare for complex conversations about strategy. People also need support during meetings to bring their voices to the conversation, especially people who may be less experienced in strategic discussions or who have less positional power in the organization. Intentional meeting design and facilitation are an offering from the Co-Conveners that support all participants to show up with purpose to the conversation.
+Table Meeting design and facilitation are absolutely essential to the quality of strategic conversations at Tables, and thus to organizational strategic alignment. People need time in advance to prepare for complex conversations about strategy. People also need support during meetings to bring their voices to the conversation, especially people who may be less experienced in strategic discussions or who have less positional power in the organization. Intentional meeting design and facilitation by the Co-Conveners supports all participants to show up with purpose to the conversation.
 
 ## **How does it work in the JustOrg Design application?**
 
-When a Convener clicks to add an Agenda, they are brought to the Agenda screen. It has a number of features that support the design of strategy-focused Table Meetings, including:
+When a Convener clicks to add an Agenda, they are brought to the Agenda screen. It has a number of features that support the design and facilitation of strategy-focused Table Meetings, including:
 
 1. **Attendees:** All Table Members are automatically listed as attendees; simply remove anyone who cannot attend. If you want to add staff who are not Table members simply click in the Staff field and scroll to their name. There are also fields to add board members, community members, and a general other field if you ever want to include non-staff members in a Table Meeting.
 2. **Meeting Purpose or Objectives:** There is a dedicated field to capture the high-level intentions of the meeting; that is, what you want to accomplish whether that is exploration, decision-making, etc.
