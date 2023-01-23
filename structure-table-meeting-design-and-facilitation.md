@@ -9,7 +9,7 @@ Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/
 
 ## **What do we mean?**
 
-By Table Meeting design and facilitation, we mean the intentional creation of an agenda that is distributed prior to a Table Meeting and intended to engage Table members in a strategic conversation. When we design an agenda, we consider four things: meeting objectives, meeting attendees, meeting topics, and meeting engagement techniques.
+By Table Meeting design and facilitation, we mean the intentional creation of an agenda that is distributed prior to a Table Meeting and intended to engage Table Members in a strategic conversation. When we design an agenda, we consider four things: meeting objectives, meeting attendees, meeting topics, and meeting engagement techniques.
 
 ![](<.gitbook/assets/2 (2).png>)
 
@@ -49,7 +49,7 @@ Table Meeting design and facilitation are absolutely essential to the quality of
 
 When a Convener clicks to add an Agenda, they are brought to the Agenda screen. It has a number of features that support the design and facilitation of strategy-focused Table Meetings, including:
 
-1. **Attendees:** All Table Members are automatically listed as attendees; simply remove anyone who cannot attend. If you want to add staff who are not Table members simply click in the Staff field and scroll to their name. There are also fields to add board members, community members, and a general other field if you ever want to include non-staff members in a Table Meeting.
+1. **Attendees:** All Table Members are automatically listed as attendees; simply remove anyone who cannot attend. If you want to add staff who are not Table Members simply click in the Staff field and scroll to their name. There are also fields to add board members, community members, and a general other field if you ever want to include non-staff members in a Table Meeting.
 2. **Meeting Purpose or Objectives:** There is a dedicated field to capture the high-level intentions of the meeting; that is, what you want to accomplish whether that is exploration, decision-making, etc.
 3. **Meeting Topics:** There is a section for adding meeting topics one by one, including their length of time. You’ll notice a helpful meeting duration tracker in the upper right of this section; it auto tabulates the length of the meeting as you add and edit topics. There is also a sorting feature in the bottom left of this section if you decide you want to keep topics you have entered but move them around.
 4. **Related Strategies & Decisions-to-be-Made:** Below the meeting topics section, you will find a section for adding the organizational strategy(s) relevant to this particular meeting. This is to continuously keep strategy at the center of the conversation. And to the right, you can add as reference any decisions-to-be-made that the Table has open if they will be discussed in this particular meeting. Again, these two fields are meant to keep everyone focused on strategy and decision-making.
