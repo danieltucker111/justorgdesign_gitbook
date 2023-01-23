@@ -69,21 +69,11 @@ We love this [guidance for modified consensus from Seeds for Change](https://www
 
 “There are many different reasons why someone might not agree with a proposal. Consensus decision-making recognizes this – it's not trying to achieve unanimity but looks for a solution that everyone involved is OK with. Not all types of disagreement stop a group from reaching consensus. Think about it as a spectrum from completely agreeing to completely objecting to a proposal.
 
-* [ ] **Agreement**
+* [ ] **Agreement:** “I support the proposal and am willing to implement it.”
+* [ ] **Reservations:** “I still have some problems with the proposal, but I’ll go along with it.”
+* [ ] **Standing Aside:** “I can’t support this proposal because... but I don’t want to stop the group, so I’ll let the decision happen without me and I won’t be part of implementing it.”\
 
-“I support the proposal and am willing to implement it.”
-
-* [ ] **Reservations**
-
-“I still have some problems with the proposal, but I’ll go along with it.”
-
-* [ ] **Standing Aside**
-
-“I can’t support this proposal because... but I don’t want to stop the group, so I’ll let the decision happen without me and I won’t be part of implementing it.”
-
-* [ ] **Blocking**
-
-“I have a fundamental disagreement with the core of the proposal that has not been resolved. We need to look for a new proposal.“\
+* [ ] **Blocking:** “I have a fundamental disagreement with the core of the proposal that has not been resolved. We need to look for a new proposal.“\
 
 
 ![https://www.seedsforchange.org.uk/consensus#agreement](.gitbook/assets/3.jpeg)
