@@ -11,7 +11,7 @@ Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/
 
 By Table Meeting Design, we mean the intentional creation of an agenda that is distributed prior to a Table Meeting and intended to engage Table members in a strategic conversation. When we design an agenda, we consider four things: meeting objectives, meeting attendees, meeting topics, and meeting engagement techniques.
 
-![](<.gitbook/assets/2 (2) (2).png>)
+![](<.gitbook/assets/2 (2).png>)
 
 1.  **What is the purpose, or objective, of this particular Table Meeting?**\
     ****\
