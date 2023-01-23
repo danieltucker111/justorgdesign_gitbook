@@ -17,12 +17,12 @@ In JustOrg Design, we very intentionally use the term decision-to-be-made or DTB
 
 Indications that a decision is associated with advancing strategy and thus appropriate for a Table to work on collectively:
 
-* [ ] The decision will significantly change how we design and deliver key aspects of our work
-* [ ] The decision will affect multiple functions/departments of the organization
-* [ ] The decision will involve discontinuing a current practice or program
-* [ ] The decision will involve adding a new practice or program
-* [ ] The decision will involve adding or changing the nature of a key organizational partnership or funding relationship
-* [ ] The decision will significantly affect our employee culture and/or quality of employment experience
+* The decision will significantly change how we design and deliver key aspects of our work
+* The decision will affect multiple functions/departments of the organization
+* The decision will involve discontinuing a current practice or program
+* The decision will involve adding a new practice or program
+* The decision will involve adding or changing the nature of a key organizational partnership or funding relationship
+* The decision will significantly affect our employee culture and/or quality of employment experience
 
 Not all of these things will be present in a single DTBM; these are _potential indications_ that a decision should be treated as a DTBM.
 
@@ -32,7 +32,7 @@ Decisions are strategies activated. Strategies are mere words until they are exp
 
 Decision-making is also the source of enormous amounts of spoken and unspoken conflict in justice organizations. JustOrg Design supports us in getting conscious and serious in our attempt to build our collective decision-making capacity. To build our confidence. To build trust in ourselves and in one another that we can apply strategic thinking to the most important decisions in front of us.
 
-## **How does it work in the JustOrg Design application?**
+**How does it work in the JustOrg Design application?**
 
 DTBMs are created at the Table level on the Table Details screen. Only Table Conveners can add or edit DTBMs. All other Table Members are read-only with respect to DTBMs.
 
@@ -61,7 +61,7 @@ When the DTBM is in fact made, the Convener changes its status to Closed. At thi
 * [ ] Which strategies were most activated by the outcome of this decision?
 * [ ] Any additional takeaways that should be stored with this closed decision?
 
-## **What practices do we recommend?**
+**What practices do we recommend?**
 
 The JustOrg Design system allows you to choose from four different decision-making methods: consensus, modified consensus, majority, or advice to an individual Table member. For most Table strategic decisions, we recommend modified consensus.
 
@@ -69,10 +69,21 @@ We love this [guidance for modified consensus from Seeds for Change](https://www
 
 “There are many different reasons why someone might not agree with a proposal. Consensus decision-making recognizes this – it's not trying to achieve unanimity but looks for a solution that everyone involved is OK with. Not all types of disagreement stop a group from reaching consensus. Think about it as a spectrum from completely agreeing to completely objecting to a proposal.
 
-* [ ] **Agreement:** “I support the proposal and am willing to implement it.”
-* [ ] **Reservations:** “I still have some problems with the proposal, but I’ll go along with it.”
-* [ ] **Standing Aside:** “I can’t support this proposal because... but I don’t want to stop the group, so I’ll let the decision happen without me and I won’t be part of implementing it.”
-* [ ] **Blocking:** “I have a fundamental disagreement with the core of the proposal that has not been resolved. We need to look for a new proposal.“\
+* [ ] **Agreement**
+
+“I support the proposal and am willing to implement it.”
+
+* [ ] **Reservations**
+
+“I still have some problems with the proposal, but I’ll go along with it.”
+
+* [ ] **Standing Aside**
+
+“I can’t support this proposal because... but I don’t want to stop the group, so I’ll let the decision happen without me and I won’t be part of implementing it.”
+
+* [ ] **Blocking**
+
+“I have a fundamental disagreement with the core of the proposal that has not been resolved. We need to look for a new proposal.“\
 
 
 ![https://www.seedsforchange.org.uk/consensus#agreement](.gitbook/assets/3.jpeg)
