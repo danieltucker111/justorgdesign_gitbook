@@ -5,7 +5,9 @@ coverY: 246
 
 # JustOrg Design Process Guide
 
-Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)
+Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)\
+\
+
 
 **Our mission is to help organizations operationalize their values and strategies through structure and decision-making.**
 
