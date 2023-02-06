@@ -75,4 +75,42 @@ We love this [guidance for modified consensus from Seeds for Change](https://www
 * [ ] **Blocking:** “I have a fundamental disagreement with the core of the proposal that has not been resolved. We need to look for a new proposal.“\
 
 
-![https://www.seedsforchange.org.uk/consensus#agreement](.gitbook/assets/3.jpeg)
+<details>
+
+<summary>Detailed definitions for consensus from Seeds For Change</summary>
+
+The words used to describe the different types of agreement and disagreement vary from group to group. It's important to be clear in your group what options you are using and what they mean.
+
+Here are some common options:
+
+**Agreement**
+
+“I support the proposal and am willing to implement it.”
+
+**Reservations**
+
+“I still have some problems with the proposal, but I’ll go along with it.”
+
+You are willing to let the proposal pass but want to register your concerns. You may even put energy into implementing the idea once your dissent has been acknowledged. If there are significant reservations the group may amend or reword the proposal.
+
+**Standing aside**
+
+“I can’t support this proposal because... but I don’t want to stop the group, so I’ll let the decision happen without me and I won’t be part of implementing it.”
+
+You might stand aside because you disagree with with the proposal: “I’m unhappy enough with this decision not to put any effort into making it a reality.”
+
+Or you might stand aside for pragmatic reasons, e.g. you like the decision but are unable to support it because of time restraints or personal energy levels. “I’m OK with the decision, but I’m not going to be around next week to make it happen.”
+
+The group may be happy to accept the stand aside and go ahead. Or the group might decide to work on a new proposal, especially where there are several stand asides.
+
+**Blocking**
+
+“I have a fundamental disagreement with the core of the proposal that has not been resolved. We need to look for a new proposal.“
+
+A block stops a proposal from being agreed. It expresses a fundamental objection. It means that you cannot live with the proposal. This isn’t an _“_I don’t really like it” or _“_I liked the other idea better.” It means “I fundamentally object to this proposal!” Some groups say that a block should only be used if your objection is so strong that you’d leave it the proposal went ahead. The group can either look for amendments to overcome the objection or return to the discussion stage to look for a new proposal.
+
+[Source: Seeds For Change](https://www.seedsforchange.org.uk/consensus#agreement)
+
+</details>
+
+![](.gitbook/assets/3.jpeg)
