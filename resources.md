@@ -18,11 +18,6 @@ This is a list of resources curated specifically for people implementing JustOrg
 
 ****[**Emergent Strategy: Shaping Change, Changing Worlds**](https://www.goodreads.com/en/book/show/29633913-emergent-strategy)****
 
-by adrienne maree brown\
-
-
-****[**Holding Change: The Way of Emergent Strategy Facilitation and Mediation**](https://www.goodreads.com/en/book/show/55814319-holding-change)
-
 by adrienne maree brown
 
 </details>
@@ -30,6 +25,11 @@ by adrienne maree brown
 <details>
 
 <summary>Facilitation Resources</summary>
+
+****[**Holding Change: The Way of Emergent Strategy Facilitation and Mediation**](https://www.goodreads.com/en/book/show/55814319-holding-change)
+
+by adrienne maree brown\
+
 
 ****[**Turning Toward Each Other: A Conflict Workbook**](https://movementstrategy.org/resources/turning-towards-each-other-a-conflict-workbook/)****
 
@@ -56,9 +56,9 @@ by Seeds for Change\
 by Training Resources Group\
 
 
-<mark style="color:blue;">**Models**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**of**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Consensus**</mark> ([direct link to PDF guide](http://disabilityjusticedreaming.org/iambrown-Models-of-Consensus.pdf))
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Models**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**of**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Consensus**</mark> ](https://disabilityjusticedreaming.org/iambrown-Models-of-Consensus.pdf)(direct link to PDF guide)
 
-by  Autumn Brown, posted on [Disability Justice Dreaming](https://disabilityjusticedreaming.org/learnings/#BasicConsensus)
+by Autumn Brown, posted on [Disability Justice Dreaming](https://disabilityjusticedreaming.org/learnings/#BasicConsensus)
 
 </details>
 

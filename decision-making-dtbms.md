@@ -50,7 +50,7 @@ When a Table agrees that it is naming a strategic DTBM, the Convener will go to 
 Then throughout the Table’s deliberation on the DTBM, which could be over several Table Meetings, the Convener can add additional details about the DTBM on the Table Specific Decision Details Screen, including:
 
 * [ ] Who will make the decision (typically the whole Table, but occasionally a Table Member individually)
-* [ ] The decision-making method (typically consensus, but occasionally advice to a Table Member individually, or another method)
+* [ ] The decision-making method (typically modified consensus, but occasionally advice to a Table Member individually, or another method)
 * [ ] Other impacted Tables, where you can note other Tables that will be impacted by this decision
 * [ ] Ongoing decision-related deliberation notes
 
@@ -63,9 +63,9 @@ When the DTBM is in fact made, the Convener changes its status to Closed. At thi
 
 ## **What practices do we recommend?**
 
-The JustOrg Design system allows you to choose from four different decision-making methods: consensus, modified consensus, majority, or advice to an individual Table member. For most Table strategic decisions, we recommend consensus.
+The JustOrg Design system allows you to choose from four different decision-making methods: consensus, modified consensus, majority, or advice to an individual Table member. For most Table strategic decisions, we recommend modified consensus.
 
-We love this [guidance for consensus from Seeds for Change](https://www.seedsforchange.org.uk/consensus#agreement):
+We love this [guidance for modified consensus from Seeds for Change](https://www.seedsforchange.org.uk/consensus#agreement):
 
 “There are many different reasons why someone might not agree with a proposal. Consensus decision-making recognizes this – it's not trying to achieve unanimity but looks for a solution that everyone involved is OK with. Not all types of disagreement stop a group from reaching consensus. Think about it as a spectrum from completely agreeing to completely objecting to a proposal.
 
@@ -110,8 +110,3 @@ The group may be happy to accept the stand aside and go ahead. Or the group migh
 A block stops a proposal from being agreed. It expresses a fundamental objection. It means that you cannot live with the proposal. This isn’t an _“_I don’t really like it” or _“_I liked the other idea better.” It means “I fundamentally object to this proposal!” Some groups say that a block should only be used if your objection is so strong that you’d leave it the proposal went ahead. The group can either look for amendments to overcome the objection or return to the discussion stage to look for a new proposal.
 
 [Source: Seeds For Change](https://www.seedsforchange.org.uk/consensus#agreement)
-
-{% hint style="info" %}
-See our [Resources section](resources.md#decision-making-resources) for more on decision-making methods.&#x20;
-{% endhint %}
-
