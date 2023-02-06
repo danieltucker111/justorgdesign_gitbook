@@ -56,7 +56,7 @@ by Seeds for Change\
 by Training Resources Group\
 
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Models**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**of**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Consensus**</mark> ](https://disabilityjusticedreaming.org/iambrown-Models-of-Consensus.pdf)(direct link to PDF guide)
+****[**Models of Consensus**](https://disabilityjusticedreaming.org/iambrown-Models-of-Consensus.pdf) (direct link to PDF guide)
 
 by Autumn Brown, posted on [Disability Justice Dreaming](https://disabilityjusticedreaming.org/learnings/#BasicConsensus)
 
