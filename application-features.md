@@ -1,8 +1,8 @@
 ---
 description: >-
   The JustOrg Design application is a powerful, fully integrated set of all
-  tools necessary for enabling the practice of Strategic Alignment within and
-  across Justice-Committed Organizations.
+  tools necessary for enabling the practice of strategic alignment within and
+  across justice-committed organizations.
 cover: .gitbook/assets/Screenshot 2024-07-12 at 10.48.44 AM.png
 coverY: 0
 layout:
@@ -23,7 +23,7 @@ layout:
 
 # Application Features
 
-Our comprehensive organizational design software has been built specifically for justice-committed organizations. Our platform helps your organization sustain a practice of aligning strategy, structure, and decision-making to help you achieve your purpose with clarity, focus, and adaptability. Below is a detailed list of  key features designed to help your organization successfully practice strategic alignment while significantly reducing the cognitive and psychic load traditionally associated with executing strategy.
+Our comprehensive organizational design software is built specifically for justice-committed organizations. Our platform helps your organization sustain a practice of aligning strategy, structure, and decision-making to help you achieve your purpose with clarity, focus, and adaptability. Below is a detailed list of key features designed to help your organization sustain alignment while significantly reducing the cognitive and psychic load traditionally associated with executing strategy.
 
 
 
@@ -41,17 +41,17 @@ Bridge the gap between lofty goals and on-the-ground execution. Our Strategic Pr
 
 ## Design, Manage, and Empower Structure
 
-### Table/Structure Manager
+### Structure (Table) Manager
 
-Design your organization for maximum impact. The Table/Structure Manager allows you to create a flexible, strategy-aligned structure composed of purposeful teams (which we call "Tables"). For each Table, you'll clearly define its purpose, decision-making authority, key deliverables, and team composition—all explicitly linked to your strategies. This strategic visibility helps everyone understand how their work contributes to the bigger picture. As your strategies evolve, easily adapt your organizational structure to maintain alignment, and leverage the full potential of your talent by enabling fluid movement between Tables based on strengths and development goals.
+Design your organization for efficacy and alignment. The Table/Structure Manager allows you to create a flexible, strategy-aligned structure composed of purposeful teams (which we call "Tables"). For each Table, you'll clearly define its purpose, decision-making scope, key deliverables, and team composition—all explicitly linked to your strategies. This strategic visibility helps everyone understand how their work contributes to the bigger picture. As your strategies evolve, easily adapt your organizational structure to maintain alignment, and leverage the full potential of your talent by enabling fluid movement between Tables based on strengths and development goals.
 
 ### Table Planner
 
 Turn strategy into action with our powerful Table Planner. This feature helps teams plan their work, track progress, and stay aligned with organizational strategies. Manage agenda topics based on strategic actions and decisions, ensuring your meetings are always purposeful. Break down complex initiatives into manageable actions, making big goals feel achievable. The Table Planner also serves as a central hub for all table-related documents and logged decisions, providing easy access to critical information and fostering continuity between meetings. By connecting day-to-day work directly to strategic priorities, teams stay in sync as they drive execution - all while maintaining a clear view of how their efforts contribute to the bigger picture.
 
-### Active Organization Design Chart
+### Big Picture Alignment - Organization Design View
 
-Visualize your organization's structure and strategy alignment at a glance. This dynamic chart provides a real-time view of how your various Tables and teams connect to active strategies. It's an invaluable tool for communicating your organizational design to stakeholders, helping everyone understand the rationale behind your structure. As your organization evolves, the chart updates automatically, ensuring you always have an accurate, current view of your intentional design.
+Visualize your organization's structure and strategy alignment at-a-glance. This dynamic view offers a real-time snapshot of your organization's current purpose, strategies, cross-functional teams, and functional groups. Ensure everyone has an up-to-date understanding of your organization's intentional design through this visual representation, which updates instantly based on actual organizational activities.
 
 
 
