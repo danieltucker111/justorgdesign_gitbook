@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/christina-wocintechchat-com-faEfWCdOKIg-unsplash (1).jpg
 coverY: -112.35387962291516
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Structure: Table Meeting Design & Facilitation

@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/tim-peterson-KHrwWI5rdo8-unsplash.jpg
 coverY: 163.80565627266134
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Strategy

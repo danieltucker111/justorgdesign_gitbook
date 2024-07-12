@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/jod_ekzaone (1).jpg
 coverY: 246
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # JustOrg Design Process Guide

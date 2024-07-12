@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/pexels-pixabay-267705 (1).jpg
 coverY: 22.050761421319795
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Resources

@@ -3,7 +3,7 @@ description: >-
   The JustOrg Design application is a powerful, fully integrated set of all
   tools necessary for enabling the practice of Strategic Alignment within and
   across Justice-Committed Organizations.
-cover: .gitbook/assets/Intro to JoD.jpg
+cover: .gitbook/assets/Screenshot 2024-07-12 at 10.48.44 AM.png
 coverY: 0
 layout:
   cover:

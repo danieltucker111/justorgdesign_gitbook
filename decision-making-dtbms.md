@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/pexels-pixabay-277593.jpg
 coverY: 62.81646273637375
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Decision-Making (DTBMs)
