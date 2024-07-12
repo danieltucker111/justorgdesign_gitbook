@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/pexels-kindel-media-7688159 (1).jpg
 coverY: 32.55112400290065
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Key Roles
