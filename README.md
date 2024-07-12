@@ -17,7 +17,11 @@ We take as inspiration what the the renowned abolitionist and scholar Ruth Wilso
 
 JustOrg Design helps everyone at a justice organization to understand and participate in the activation of organizational strategies. That ever-deepening understanding and activation across all functions and levels of the organization nurtures critical discussion, debate, alignment, and momentum.
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/JoD Diagram (1).png" alt=""><figcaption><p><br>JustOrg Design is the missing linkage: strategy → structure → decision-making</p></figcaption></figure>
+
+</div>
 
 
 

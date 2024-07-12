@@ -12,13 +12,13 @@ Image credit: [Kindel Media on pexels](https://www.pexels.com/photo/group-of-peo
 There are four (4) roles that are specific to implementing JustOrg Design. It is not possible to fully implement JustOrg Design as intended without people stepping with energy and consistency into these roles. However, none of these roles is permanent. They can all rotate over time to adjust to people’s capacity and to give new people opportunities for leadership development. They are:
 
 1. **Table Participants**\
-   ****Attend Table meetings; engage thoughtfully; hold power consciously; interpret strategy; learn; influence and be influenced; participate in decision-making.
+   Attend Table meetings; engage thoughtfully; hold power consciously; interpret strategy; learn; influence and be influenced; participate in decision-making.
 2. **Table Conveners**\
-   ****Co-design agendas; co-facilitate conversations; keep the JustOrg Design system current and relevant for your Table(s) Members; stay in open dialogue with your Sponsor(s).
+   Co-design agendas; co-facilitate conversations; keep the JustOrg Design system current and relevant for your Table(s) Members; stay in open dialogue with your Sponsor(s).
 3. **Table Sponsors**\
-   ****Champion Table purpose and progress at the executive level; coach and support Co-Conveners in addressing strategies and Table dynamics effectively.
+   Champion Table purpose and progress at the executive level; coach and support Co-Conveners in addressing strategies and Table dynamics effectively.
 4. **Organization Administrator (Org Admin)**\
-   ****Maintain the JustOrg Design system for the organization overall, including adding new staff and removing staff who have left. Attend to overall data hygiene.
+   Maintain the JustOrg Design system for the organization overall, including adding new staff and removing staff who have left. Attend to overall data hygiene.
 
 ## **Why is it important?**
 

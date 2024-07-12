@@ -14,31 +14,31 @@ By Table Meeting design and facilitation, we mean the intentional creation of an
 ![](<.gitbook/assets/2 (2).png>)
 
 1.  **What is the purpose, or objective, of this particular Table Meeting?**\
-    ****\
-    ****For instance, do we want to explore a topic? Do we want to generate specific options for action? Do we want to come to a decision?
+    \
+    For instance, do we want to explore a topic? Do we want to generate specific options for action? Do we want to come to a decision?
 
-    __\
+    \
     _Example:_ The objective of this Table Meeting is to explore possibilities for expanding our approach to healing for impacted community members.
 
-    __\
+    \
     _Example:_ The objective of this Table Meeting is to come to a decision on whether to partner with the XYZ Justice Group on our 2023 Advocacy Days.\
 
 2. **Who will attend the Table Meeting?**\
-   ****\
-   ****Will all Table Members be in attendance? Do we want to include anyone beyond the Table Members for this particular conversation? This could be other staff, community members, or board members. This is not necessary, but depending on the strategic conversation you want to have, may enrich the discussion.\
+   \
+   Will all Table Members be in attendance? Do we want to include anyone beyond the Table Members for this particular conversation? This could be other staff, community members, or board members. This is not necessary, but depending on the strategic conversation you want to have, may enrich the discussion.\
 
 3. **What topics will we cover in the Table Meeting?**\
-   ****\
-   ****You’ll want to break the conversation into clear topics that build toward accomplishing the Table Meeting’s objective(s). For instance, you might start with an agenda review and check-in question to get the group warmed up. You might next go to one Table Member providing a brief history of what the organization has done historically on the topic being explored. Then you might have a round of clarifying questions. Then you might have a full group discussion of options for where the organization could go next. Finally, you might close the meeting with a check-out question to offer everyone a chance to make the connection between the conversation you just had and their own work ahead. Each of these items is an agenda topic; they all build toward a deep group experience of exploring options to activate a strategy.\
+   \
+   You’ll want to break the conversation into clear topics that build toward accomplishing the Table Meeting’s objective(s). For instance, you might start with an agenda review and check-in question to get the group warmed up. You might next go to one Table Member providing a brief history of what the organization has done historically on the topic being explored. Then you might have a round of clarifying questions. Then you might have a full group discussion of options for where the organization could go next. Finally, you might close the meeting with a check-out question to offer everyone a chance to make the connection between the conversation you just had and their own work ahead. Each of these items is an agenda topic; they all build toward a deep group experience of exploring options to activate a strategy.\
 
 4.  **What engagement techniques will we use to ensure participants are engaged in the Table Meeting?**\
-    ****\
-    ****For instance, is there any preparation we want attendees to do in advance so that people feel better prepared? What facilitation techniques will we incorporate in the agenda design so that everyone gets involved and is supported to share their views if they wish to?
+    \
+    For instance, is there any preparation we want attendees to do in advance so that people feel better prepared? What facilitation techniques will we incorporate in the agenda design so that everyone gets involved and is supported to share their views if they wish to?
 
-    __\
+    \
     _Example:_ This Table Meeting will begin with a check-in question related to the meeting topic; each person will have 1 minute to check in.
 
-    __\
+    \
     _Example:_ This Table Meeting will include paired break-outs before the full group discussion so that everyone has 15 minutes to think with someone else before suggesting options for action to the full group.
 
 ## **Why is it important?**
