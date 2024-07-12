@@ -59,15 +59,15 @@ Visualize your organization's structure and strategy alignment at-a-glance. This
 
 ### Meeting Space
 
-Vastly improve the quality of meetings and outcomes for your teams . Our Meeting Space feature helps you manage all aspects of your meetings—from logistics and agendas to decisions and follow-up communications. By ensuring continuity and preparation between meetings, you'll maximize engagement and productivity whether your team is meeting in-person, remotely, or in a hybrid setting. The Meeting Space integrates seamlessly with your existing workflows, making it easy to adopt and use consistently across your organization. With built-in best practices and resources, you'll foster a strong meeting culture that drives strategy activation and inclusive collaboration.
+Vastly improve the quality of meetings whether your teams convene in-person, remotely, or hybrid. Our Meeting Space feature helps teams manage all aspects of effective meetings—from strong agendas to well-captured decisions to follow-up communications. By ensuring continuity and preparation between meetings, you'll maximize engagement and productivity. With built-in best practices and resources, you'll foster a strong meeting culture that drives strategy activation and inclusive collaboration.
 
 ### Capture Board & Sensemaking
 
-Unlock your team's collective intelligence with our Capture Board & Sensemaking feature. This digital collaboration space allows teams to brainstorm and build upon ideas simultaneously, breaking down silos and fostering innovation. As ideas flow, use our prioritization and bundling tools to uncover patterns and insights. The ability to clarify and modify ideas in real-time ensures that your team's thinking evolves collaboratively. When the session ends, easily export your boards and sense-making outcomes to your centralized meeting notes, ensuring that valuable insights are captured and actionable.
+Unlock your team's collective intelligence with our Capture Board & Sensemaking feature. This digital collaboration space allows teams to brainstorm and build upon ideas simultaneously. As ideas flow, use our upvoting and prioritization tools to uncover patterns and insights. The ability to clarify and modify ideas in real-time ensures that your team's thinking evolves collaboratively. When the session ends, easily export your boards and sense-making outcomes to meeting notes, ensuring that valuable insights are captured and actionable.
 
 ### Group Voting
 
-Make inclusive, transparent decisions with our Group Voting feature. Whether you're making decisions in real-time during a meeting or preparing proposals in advance, our flexible voting system ensures that all voices are heard. Choose from consent, consensus, or majority voting methods to best suit your organization's culture and the decision at hand. The collaborative voting process, managed by a Vote Admin, promotes honest feedback while maintaining transparency. After voting, hold focused workshops to discuss results and modify proposals as needed. Once finalized, seamlessly convert proposals into logged decisions that are visible and actionable across the system in a few clicks, ensuring follow-through and accountability.
+Make inclusive, transparent decisions with our Group Voting feature. Whether you're making decisions in real-time during a meeting or preparing proposals in advance, our flexible voting system ensures that all voices are heard. Choose from consent, consensus, or majority voting methods to best suit your organization's culture and the decision at hand. The collaborative voting process promotes honest feedback while maintaining transparency. After voting rounds, hold focused workshops to discuss results and modify proposals as needed. Once finalized, seamlessly convert proposals into logged decisions that are visible and actionable across the system in a few clicks, ensuring follow-through and accountability.
 
 ### Realtime Decision Capture
 
@@ -79,7 +79,7 @@ Transform decision-making from a point-in-time event to an ongoing, strategic pr
 
 ### Community Member Participation
 
-Amplify the voices of those you serve with our Community Member Participation feature. Easily include community representatives on relevant cross-functional tables, ensuring their perspectives are integrated into your strategy and structure. This feature allows you to collaborate with community partners in an organized, intentional way, strengthening relationships and improving the relevance and effectiveness of your work. By systematically incorporating community voice into your decision-making processes, you'll stay true to your organizational purpose and create more impactful, sustainable solutions.
+Amplify the voices of your key stakeholders with our Community Member Participation feature. Easily include community representatives on relevant cross-functional tables, ensuring their perspectives are integrated into your strategic sensemaking and decision-making. This feature allows you to collaborate with community partners in an organized, intentional way, strengthening relationships and improving the relevance and effectiveness of your work.
 
 ## Support Features to Improve Experience
 
