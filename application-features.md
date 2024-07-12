@@ -23,7 +23,7 @@ layout:
 
 # Application Features
 
-JustOrg Design is a comprehensive organizational design software built specifically for justice-committed organizations. Our platform helps your organization sustain a practice of aligning strategy, structure, and decision-making to help you achieve your purpose with clarity, focus, and adaptability. Here's how our key features can help your organization successfully practice strategic alignment while significantly reducing the cognitive and psychic load traditionally associated with executing strategy:
+Our comprehensive organizational design software has been built specifically for justice-committed organizations. Our platform helps your organization sustain a practice of aligning strategy, structure, and decision-making to help you achieve your purpose with clarity, focus, and adaptability. Below is a detailed list of  key features designed to help your organization successfully practice strategic alignment while significantly reducing the cognitive and psychic load traditionally associated with executing strategy.
 
 
 
