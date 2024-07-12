@@ -27,7 +27,7 @@ Our comprehensive organizational design software has been built specifically for
 
 
 
-## Strategy
+## Strategy Creation, Sharing, and Iteration
 
 ### Strategy Builder/Manager
 
@@ -39,7 +39,7 @@ Bridge the gap between lofty goals and on-the-ground execution. Our Strategic Pr
 
 
 
-## Structure
+## Design, Manage, and Empower Structure
 
 ### Table/Structure Manager
 
