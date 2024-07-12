@@ -49,7 +49,7 @@ Design your organization for efficacy and alignment. The Table/Structure Manager
 
 Turn strategy into action with our powerful Table Planner. This feature helps teams plan their work, track progress, and stay aligned with organizational strategies. Manage agenda topics based on strategic actions and decisions, ensuring your meetings are always purposeful. Break down complex initiatives into manageable actions, making big goals feel achievable. The Table Planner also serves as a central hub for all table-related documents and logged decisions, providing easy access to critical information and fostering continuity between meetings. By connecting day-to-day work directly to strategic priorities, teams stay in sync as they drive execution - all while maintaining a clear view of how their efforts contribute to the bigger picture.
 
-### Big Picture Alignment - Organization Design View
+### Organization Design View
 
 Visualize your organization's structure and strategy alignment at-a-glance. This dynamic view offers a real-time snapshot of your organization's current purpose, strategies, cross-functional teams, and functional groups. Ensure everyone has an up-to-date understanding of your organization's intentional design through this visual representation, which updates instantly based on actual organizational activities.
 
