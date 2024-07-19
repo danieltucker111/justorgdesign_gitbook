@@ -23,13 +23,13 @@ Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)\
 \
 
 
-**Our mission is to help organizations operationalize their values and strategies through structure and decision-making.**
+**Our purpose is to cultivate and sustain the practice of strategic alignment in justice-committed organizations.**
 
 We take as inspiration what the the renowned abolitionist and scholar Ruth Wilson Gilmore recently said:
 
 > If consciousness is the means through which we imagine ourselves into the future then organizations are the form.
 
-JustOrg Design helps everyone at a justice organization to understand and participate in the activation of organizational strategies. That ever-deepening understanding and activation across all functions and levels of the organization nurtures critical discussion, debate, alignment, and momentum.
+JustOrg Design helps everyone at a justice-committed organization to understand and participate in the activation of organizational strategies. That ever-deepening understanding and activation across all functions and levels of the organization nurtures critical discussion, debate, alignment, and momentum. <mark style="color:red;">**UPDATE GRAPHIC BELOW**</mark>
 
 <div align="center">
 
@@ -41,6 +41,7 @@ JustOrg Design helps everyone at a justice organization to understand and partic
 
 This Process Guide walks readers through the fundamentals of JustOrg Design:
 
+* [ ] Defining Organizational Design
 * [ ] Strategy
 * [ ] Structure (Tables)
 * [ ] Decision-making
