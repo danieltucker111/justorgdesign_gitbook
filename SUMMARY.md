@@ -1,8 +1,9 @@
 # Table of contents
 
 * [JustOrg Design Process Guide](README.md)
+* [Defining Organizational Design](defining-organizational-design.md)
 * [Strategy](strategy.md)
-* [Structure: Table Meeting Design & Facilitation](structure-table-meeting-design-and-facilitation.md)
+* [Structure](structure.md)
 * [Decision-Making (DTBMs)](decision-making-dtbms.md)
 * [Key Roles](key-roles.md)
 * [Application Features](application-features.md)

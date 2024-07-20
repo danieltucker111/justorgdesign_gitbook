@@ -29,7 +29,7 @@ We take as inspiration what the the renowned abolitionist and scholar Ruth Wilso
 
 > If consciousness is the means through which we imagine ourselves into the future then organizations are the form.
 
-JustOrg Design helps everyone at a justice-committed organization to understand and participate in the activation of organizational strategies. That ever-deepening understanding and activation across all functions and levels of the organization nurtures critical discussion, debate, alignment, and momentum. <mark style="color:red;">**UPDATE GRAPHIC BELOW**</mark>
+JustOrg Design helps everyone at a justice-committed organization to understand and participate in the activation of organizational strategies. That ever-deepening understanding and activation across all functions and levels of the organization nurtures critical discussion, debate, alignment, and, ultimately impact. <mark style="color:red;">**REMOVE GRAPHIC BELOW**</mark>
 
 <div align="center">
 
@@ -41,13 +41,13 @@ JustOrg Design helps everyone at a justice-committed organization to understand 
 
 This Process Guide walks readers through the fundamentals of JustOrg Design:
 
-* [ ] Defining Organizational Design
+* [ ] Introduction: Defining Organizational Design
 * [ ] Strategy
 * [ ] Structure (Tables)
 * [ ] Decision-making
 * [ ] Key Roles
 
-For each topic, we explore four questions:
+For the Strategy, Structure, Decision-making, and Roles sections, we cover:
 
 1. What do we mean?
 2. Why is it important?
