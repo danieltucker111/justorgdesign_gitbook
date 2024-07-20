@@ -23,41 +23,24 @@ Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/
 
 ## **What do we mean?**
 
-One of the central tenets of JustOrg Design is c
+One of the central tenets of JustOrg Design is that structure is a lever, a powerful opportunity to organize and reorganize people to activate justice strategies together. Structure is not only about who reports to whom. Or, how much someone is compensated. Or how long a person's tenure is. It's as much, or more, about what they an bring now to the most pressing strategic challenges the organization is embracing.
 
+The vast majority of justice-committed leaders have replicated or inherited the organizational  structure below.
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TRADITIONAL, VERTICAL NONPROFIT STRUCTURE</p></figcaption></figure>
 
-1.  **What is the purpose, or objective, of this particular Table Meeting?**\
-    \
-    For instance, do we want to explore a topic? Do we want to generate specific options for action? Do we want to come to a decision?
+A central problem for justice-committed organizations with this traditional, vertical design is that justice strategies are inherently interdisciplinary and experimental, or what in organizational design is called, “horizontal.” Such strategies require collaboration across roles, program areas, power levels, lived expertise, etc.&#x20;
 
-    \
-    _Example:_ The objective of this Table Meeting is to explore possibilities for expanding our approach to healing for impacted community members.
+An additional problem is that people working in justice-committed organizations typically want to practice internally the kinds of changes they seek for the world externally. There is a desire for a conscious holding of power, for transparency, for meaningful engagement of people internally and externally who are closest to the issues and most impacted by organizational choices.&#x20;
 
-    \
-    _Example:_ The objective of this Table Meeting is to come to a decision on whether to partner with the XYZ Justice Group on our 2023 Advocacy Days.\
+The bottom line, we believe, is that an organizational structure that consists only of functional hierarchies will not yield ongoing strategic innovation, alignment, and momentum in a justice-focused context.
 
-2. **Who will attend the Table Meeting?**\
-   \
-   Will all Table Members be in attendance? Do we want to include anyone beyond the Table Members for this particular conversation? This could be other staff, community members, or board members. This is not necessary, but depending on the strategic conversation you want to have, may enrich the discussion.\
+<mark style="color:red;">**INSERT OUR ORG DESIGN GRAPHIC HERE**</mark>
 
-3. **What topics will we cover in the Table Meeting?**\
-   \
-   You’ll want to break the conversation into clear topics that build toward accomplishing the Table Meeting’s objective(s). For instance, you might start with an agenda review and check-in question to get the group warmed up. You might next go to one Table Member providing a brief history of what the organization has done historically on the topic being explored. Then you might have a round of clarifying questions. Then you might have a full group discussion of options for where the organization could go next. Finally, you might close the meeting with a check-out question to offer everyone a chance to make the connection between the conversation you just had and their own work ahead. Each of these items is an agenda topic; they all build toward a deep group experience of exploring options to activate a strategy.\
+Rather than thinking of and representing organizational structure in purely positional authority terms, we lead with organizational purpose and current organizational strategies. Structure, in a JustOrg Design, is how we will configure ourselves to activate our strategies in service of our purpose.
 
-4.  **What engagement techniques will we use to ensure participants are engaged in the Table Meeting?**\
-    \
-    For instance, is there any preparation we want attendees to do in advance so that people feel better prepared? What facilitation techniques will we incorporate in the agenda design so that everyone gets involved and is supported to share their views if they wish to?
+A critical element of structure is the Table. Tables are configurations of people from across functional areas to advance a body of work. Tables give us way to convene people other than within supervisorial or departmental lines. They are essential to collaboartion\
 
-    \
-    _Example:_ This Table Meeting will begin with a check-in question related to the meeting topic; each person will have 1 minute to check in.
-
-    \
-    _Example:_ This Table Meeting will include paired break-outs before the full group discussion so that everyone has 15 minutes to think with someone else before suggesting options for action to the full group.
-
-## **Why is it important?**
-
-Table Meeting design and facilitation are absolutely essential to the quality of strategic conversations at Tables, and thus to organizational strategic alignment. People need time in advance to prepare for complex conversations about strategy. People also need support during meetings to bring their voices to the conversation, especially people who may be less experienced in strategic discussions or who have less positional power in the organization. Intentional meeting design and facilitation by the Co-Conveners supports all participants to show up with purpose to the conversation.
 
 ## **How does it work in the JustOrg Design application?**
 
