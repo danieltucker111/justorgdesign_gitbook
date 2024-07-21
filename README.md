@@ -17,11 +17,11 @@ layout:
     visible: true
 ---
 
-# JustOrg Design Process Guide
+# Welcome from the Co-Founders
 
 Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)
 
-## Welcome from the Co-Founders
+
 
 At JustOrg Design, our purpose is to cultivate and sustain the practice of strategic alignment in justice-committed organizations.
 

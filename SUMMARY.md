@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JustOrg Design Process Guide](README.md)
+* [Welcome from the Co-Founders](README.md)
 * [Defining Organizational Design](defining-organizational-design.md)
 * [Strategy](strategy.md)
 * [Structure](structure.md)
