@@ -34,6 +34,54 @@ This is a list of resources curated specifically for people implementing JustOrg
 
 by adrienne maree brown
 
+
+
+Paving A Better Way: What’s Driving Progressive Organizations Apart and How to Win by Coming Together
+
+by Rebecca Epstein and Mistinguette Smith
+
+[https://nonprofitquarterly.org/paving-a-better-way-whats-driving-progressive-organizations-apart-and-how-to-win/](https://nonprofitquarterly.org/paving-a-better-way-whats-driving-progressive-organizations-apart-and-how-to-win/)&#x20;
+
+
+
+A Plan Is Not a Strategy
+
+by Roger Martin
+
+[https://www.youtube.com/watch?v=iuYlGRnC7J8](https://www.youtube.com/watch?v=iuYlGRnC7J8) \
+
+
+Strategy Is What You DO, Not What You SAY
+
+By Roger Martin
+
+[https://rogermartin.medium.com/strategy-is-what-you-do-not-what-you-say-a6e483840557](https://rogermartin.medium.com/strategy-is-what-you-do-not-what-you-say-a6e483840557)&#x20;
+
+
+
+Good Strategy / Bad Strategy (A Summary)
+
+by Patrick Wilson
+
+[https://www.willpatrick.co.uk/notes/good-strategy-bad-strategy-richard-rumelt](https://www.willpatrick.co.uk/notes/good-strategy-bad-strategy-richard-rumelt)\
+
+
+We Need Human-Centered Strategy Today
+
+by Jeroen Kraaijenbrin
+
+[https://www.linkedin.com/pulse/we-need-human-centered-strategy-today-jeroen-kraaijenbrink-lanne/](https://www.linkedin.com/pulse/we-need-human-centered-strategy-today-jeroen-kraaijenbrink-lanne/)&#x20;
+
+
+
+The Four Principles of Purpose-Driven Board Leadership
+
+by Anne Wallestad
+
+[https://ssir.org/articles/entry/the\_four\_principles\_of\_purpose\_driven\_board\_leadership](https://ssir.org/articles/entry/the\_four\_principles\_of\_purpose\_driven\_board\_leadership)
+
+
+
 </details>
 
 <details>
