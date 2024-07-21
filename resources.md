@@ -36,51 +36,40 @@ by adrienne maree brown
 
 
 
-Paving A Better Way: What’s Driving Progressive Organizations Apart and How to Win by Coming Together
+[**Paving A Better Way: What’s Driving Progressive Organizations Apart and How to Win by Coming Together**](https://nonprofitquarterly.org/paving-a-better-way-whats-driving-progressive-organizations-apart-and-how-to-win/)
 
-by Rebecca Epstein and Mistinguette Smith
-
-[https://nonprofitquarterly.org/paving-a-better-way-whats-driving-progressive-organizations-apart-and-how-to-win/](https://nonprofitquarterly.org/paving-a-better-way-whats-driving-progressive-organizations-apart-and-how-to-win/)&#x20;
+by Rebecca Epstein and Mistinguette Smith&#x20;
 
 
 
-A Plan Is Not a Strategy
+[**A Plan Is Not a Strategy**](https://www.youtube.com/watch?v=iuYlGRnC7J8)
 
 by Roger Martin
 
-[https://www.youtube.com/watch?v=iuYlGRnC7J8](https://www.youtube.com/watch?v=iuYlGRnC7J8) \
 
 
-Strategy Is What You DO, Not What You SAY
+[**Strategy Is What You DO, Not What You SAY**](https://rogermartin.medium.com/strategy-is-what-you-do-not-what-you-say-a6e483840557)
 
 By Roger Martin
 
-[https://rogermartin.medium.com/strategy-is-what-you-do-not-what-you-say-a6e483840557](https://rogermartin.medium.com/strategy-is-what-you-do-not-what-you-say-a6e483840557)&#x20;
+
+
+[**Good Strategy / Bad Strategy (A Summary)**](https://www.willpatrick.co.uk/notes/good-strategy-bad-strategy-richard-rumelt)
+
+book by Richard Rumelt\
+summary by Patrick Wilson
 
 
 
-Good Strategy / Bad Strategy (A Summary)
-
-by Patrick Wilson
-
-[https://www.willpatrick.co.uk/notes/good-strategy-bad-strategy-richard-rumelt](https://www.willpatrick.co.uk/notes/good-strategy-bad-strategy-richard-rumelt)\
-
-
-We Need Human-Centered Strategy Today
+[**We Need Human-Centered Strategy Today**](https://www.linkedin.com/pulse/we-need-human-centered-strategy-today-jeroen-kraaijenbrink-lanne/)
 
 by Jeroen Kraaijenbrin
 
-[https://www.linkedin.com/pulse/we-need-human-centered-strategy-today-jeroen-kraaijenbrink-lanne/](https://www.linkedin.com/pulse/we-need-human-centered-strategy-today-jeroen-kraaijenbrink-lanne/)&#x20;
 
 
-
-The Four Principles of Purpose-Driven Board Leadership
+[**The Four Principles of Purpose-Driven Board Leadership**](https://ssir.org/articles/entry/the\_four\_principles\_of\_purpose\_driven\_board\_leadership)
 
 by Anne Wallestad
-
-[https://ssir.org/articles/entry/the\_four\_principles\_of\_purpose\_driven\_board\_leadership](https://ssir.org/articles/entry/the\_four\_principles\_of\_purpose\_driven\_board\_leadership)
-
-
 
 </details>
 
