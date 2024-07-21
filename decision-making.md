@@ -38,29 +38,33 @@ Of course individuals and functional teams make lots of decisions in the course 
 
 ### How does it work in the JustOrg Design application?
 
-1. Decisions are made by Tables, but the methodology of the decision-making can vary. The system allows you to label a decision as:
-   1. Consent
-   2. Consensus
-   3. Majority
-   4. Individual (a single person on the Table made the decision)
-   5. Individual with Advice Process (a single person on the Table made the decision after consulting people who would be impacted)
+**1. Decisions are made by Tables, but the methodology of the decision-making can vary. The system allows you to label a decision as:**
+
+1. Consent
+2. Consensus
+3. Majority
+4. Individual (a single person on the Table made the decision)
+5. Individual with Advice Process (a single person on the Table made the decision after consulting people who would be impacted)
 
 {% hint style="info" %}
 JoD INSIGHT: We are partial to the Consent decision-making process for significant strategic choices made by groups. The JoD System allows for a robust proposal, voting, feedback integration, and re-voting process using the 5-finger method.
 {% endhint %}
 
+
+
 <figure><img src=".gitbook/assets/Screenshot 2024-07-21 at 10.47.15 AM.png" alt=""><figcaption><p>JustOrg Design GROUP VOTING</p></figcaption></figure>
 
-### How does it work in the JustOrg Design application?
 
-1. The Table Convener captures decisions made by the Table in two ways:
-   1. Real-time Decisions are captured as they happen in the course of a Table Meeting. There is a dedicated place in the Table Agenda / Meeting Environment to capture these decisions as they occur.
-   2. Proposal Room decisions are planned and intended to be voted on and workshopped by the group as necessary. Articulating and voting on a Table decision through the Proposal Room involves:
-      1. Drafting the proposed decision to be made
-      2. Selecting a group voting method: consent, consensus, or majority
-      3. Opening the voting to all Table Participants who will participate in the vote.
-      4. If consent, consensus, or majority is not achieved, workshopping to get to a new proposal for a revote
-      5. Once you've completed the voting round(s), logging the result as a Table decision and associating it with strategies, priorities, and/or values as appropriate
+
+**2. The Table Convener captures decisions made by the Table in two ways:**
+
+1. Real-time Decisions are captured as they happen in the course of a Table Meeting. There is a dedicated place in the Table Agenda / Meeting Environment to capture these decisions as they occur.
+2. Proposal Room decisions are planned and intended to be voted on and workshopped by the group as necessary. Articulating and voting on a Table decision through the Proposal Room involves:
+   1. Drafting the proposed decision to be made
+   2. Selecting a group voting method: consent, consensus, or majority
+   3. Opening the voting to all Table Participants who will participate in the vote.
+   4. If consent, consensus, or majority is not achieved, workshopping to get to a new proposal for a revote
+   5. Once you've completed the voting round(s), logging the result as a Table decision and associating it with strategies, priorities, and/or values as appropriate
 
 {% hint style="info" %}
 JoD INSIGHT: Because decision-making is quite literally the currency of strategy, visibility into strategic decision-making across the organization is paramount. Leadership teams have visibility into decisions made across Tables so that they can ensure that important decisions truly come to life. Rather than making all strategic decisions on the leadership team itself–though they make some–the leadership team is keenly interested in rallying resources and organization-wide commitment to implement the strategic choices Tables make as well.
