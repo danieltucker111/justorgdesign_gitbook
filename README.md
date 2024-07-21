@@ -19,39 +19,35 @@ layout:
 
 # JustOrg Design Process Guide
 
-Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)\
-\
+Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)
 
+## Welcome from the Co-Founders
 
-**Our purpose is to cultivate and sustain the practice of strategic alignment in justice-committed organizations.**
+At JustOrg Design, our purpose is to cultivate and sustain the practice of strategic alignment in justice-committed organizations.
 
 We take as inspiration what the the renowned abolitionist and scholar Ruth Wilson Gilmore recently said:
 
-> If consciousness is the means through which we imagine ourselves into the future then organizations are the form.
-
-JustOrg Design helps everyone at a justice-committed organization to understand and participate in the activation of organizational strategies. That ever-deepening understanding and activation across all functions and levels of the organization nurtures critical discussion, debate, alignment, and, ultimately impact. <mark style="color:red;">**REMOVE GRAPHIC BELOW**</mark>
-
-<div align="center">
-
-<figure><img src=".gitbook/assets/JoD Diagram (1).png" alt=""><figcaption><p><br>JustOrg Design is the missing linkage: strategy → structure → decision-making</p></figcaption></figure>
-
-</div>
+> If consciousness is the means through which we imagine ourselves into the future, then organizations are the form.
 
 
+
+JustOrg Design ensures everyone at a justice-committed organization understands and participates in the activation of organizational strategies. This ever-deepening understanding and activation across all functions and levels of the organization nurtures shared leadership, alignment, conscious decision-making, and ultimately, greater social impact.
 
 This Process Guide walks readers through the fundamentals of JustOrg Design:
 
-* [ ] Introduction: Defining Organizational Design
-* [ ] Strategy
-* [ ] Structure (Tables)
-* [ ] Decision-making
-* [ ] Key Roles
-
-For the Strategy, Structure, Decision-making, and Roles sections, we cover:
-
-1. What do we mean?
-2. Why is it important?
-3. How does it work in the JustOrg Design application?
-4. What practices do we recommend?
+* [ ] Defining Organizational Design&#x20;
+* [ ] Strategy&#x20;
+* [ ] Structure&#x20;
+* [ ] Decision-making&#x20;
+* [ ] Key Roles&#x20;
+* [ ] Application Features&#x20;
+* [ ] Resources
 
 Please visit [our website](https://www.justorgdesign.com) for more information and to read [our blog](https://www.justorgdesign.com/blog).
+
+
+
+In partnership,\
+Jeanne Bell  & Dan Tucker
+
+\
