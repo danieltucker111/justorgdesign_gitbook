@@ -4,7 +4,7 @@
 * [Defining Organizational Design](defining-organizational-design.md)
 * [Strategy](strategy.md)
 * [Structure](structure.md)
-* [Decision-Making (DTBMs)](decision-making-dtbms.md)
+* [Decision-making](decision-making.md)
 * [Key Roles](key-roles.md)
 * [Application Features](application-features.md)
 * [Resources](resources.md)
