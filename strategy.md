@@ -37,6 +37,15 @@ Each organizational Strategy is captured and updated in the application. Strateg
 
 Creating a Strategy involves articulating:
 
+```
+<ol>
+    <li>Strategy Name&nbsp;</li>
+    <li>Strategy Challenge to be explicit about the gap the organization is working to close</li>
+    <li>Strategy Approach to offer people guidance and guardrails in thinking about how to activate the strategy</li>
+    <li>Strategic Priorities to offer time-bound actions that leadership envisions the organization accomplishing in the near term to activate the strategy</li>
+</ol>
+```
+
 1. Strategy Name
 2. Strategy Challenge to be explicit about the gap the organization is working to close
 3. Strategy Approach to offer people guidance and guardrails in thinking about how to active the strategy
