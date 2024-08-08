@@ -51,7 +51,7 @@ Visualize your organization's structure and strategy alignment at-a-glance. This
 
 ### Board and Community Member Participation
 
-Amplify the voices of your key stakeholders with our **Board and Community Member Participation** feature. Easily include community representatives on relevant cross-functional tables, ensuring their perspectives are integrated into your strategic sensemaking and decision-making. This feature allows you to collaborate with community partners in an organized, intentional way, strengthening relationships and improving the relevance and effectiveness of your work.
+Include and amplify the voices of board members and key stakeholders with our **Board and Community Member Participation** feature. Easily include board and community representatives on relevant cross-functional tables, ensuring their perspectives are integrated into your strategic sensemaking and decision-making. This feature allows you to collaborate with community partners in an organized, intentional way, strengthening relationships and improving the relevance and effectiveness of your work.
 
 
 
