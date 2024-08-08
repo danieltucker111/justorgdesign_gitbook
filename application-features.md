@@ -45,10 +45,6 @@ Bridge the gap between lofty goals and on-the-ground execution. Our Strategic Pr
 
 Design your organization for efficacy and alignment. The Table/Structure Manager allows you to create a flexible, strategy-aligned structure composed of purposeful teams (which we call "Tables"). For each Table, you'll clearly define its purpose, decision-making scope, key deliverables, and team composition—all explicitly linked to your strategies. This strategic visibility helps everyone understand how their work contributes to the bigger picture. As your strategies evolve, easily adapt your organizational structure to maintain alignment, and leverage the full potential of your talent by enabling fluid movement between Tables based on strengths and development goals.
 
-### Table Planner
-
-Turn strategy into action with our powerful Table Planner. This feature helps teams plan their work, track progress, and stay aligned with organizational strategies. Manage agenda topics based on strategic actions and decisions, ensuring your meetings are always purposeful. Break down complex initiatives into manageable actions, making big goals feel achievable. The Table Planner also serves as a central hub for all table-related documents and logged decisions, providing easy access to critical information and fostering continuity between meetings. By connecting day-to-day work directly to strategic priorities, teams stay in sync as they drive execution - all while maintaining a clear view of how their efforts contribute to the bigger picture.
-
 ### Organization Design View
 
 Visualize your organization's structure and strategy alignment at-a-glance. This dynamic view offers a real-time snapshot of your organization's current purpose, strategies, cross-functional teams, and functional groups. Ensure everyone has an up-to-date understanding of your organization's intentional design through this visual representation, which updates instantly based on actual organizational activities.
@@ -57,25 +53,41 @@ Visualize your organization's structure and strategy alignment at-a-glance. This
 
 ## Strategy Activation and Decision-Making
 
+### Table Planner
+
+Turn strategy into action with our powerful **Table Planner**. Where the **Meeting Space** (see below) is optimized to ensure that members of a Table are able to focus on and execute strategic work in the moment, the **Table Planner** serves as the central hub for ensuring that all table-related meetings are always purposeful and focused on driving execution. This feature helps teams plan their work, track strategic progress, maintain shared and individual accountability, and stay aligned with organizational strategies.
+
+The Table Planner serves as a central hub for all table-related, actions, logged decisions, individual commitments, and documents, providing easy access to critical information and fostering continuity between meetings. It also helps members to break down complex initiatives into manageable actions, making big goals feel achievable. By connecting day-to-day work directly to strategic priorities, teams stay in sync as they drive execution - all while maintaining a clear view of how their efforts contribute to the bigger picture. The Table Planner gives teams the structured foundation they need to confidently transform their vision into measurable results, without getting bogged down by fragmented information.
+
+In short, the Table Planner is where members maintain a clear and current understanding of:
+
+1. Why does the Table exist?
+2. What, specifically, have we been asked to do?
+3. What are we working on and when - what's our plan?
+4. What have we done (completed actions)?
+5. What have we decided or what will we decide (proposals)?
+6. What are our open individual commitments?
+7. What and where are our important documents?
+
 ### Meeting Space
 
-Vastly improve the quality of meetings whether your teams convene in-person, remotely, or hybrid. Our Meeting Space feature helps teams manage all aspects of effective meetings—from strong agendas to well-captured decisions to follow-up communications. By ensuring continuity and preparation between meetings, you'll maximize engagement and productivity. With built-in best practices and resources, you'll foster a strong meeting culture that drives strategy activation and inclusive collaboration.
+Vastly improve the quality of meetings whether your teams convene in-person, remotely, or hybrid. Our **Meeting Space** feature helps teams manage all aspects of effective meetings—from strong agendas to well-captured decisions to follow-up communications. By ensuring continuity and preparation between meetings, you'll maximize engagement and productivity. With built-in best practices and resources, you'll foster a strong meeting culture that drives strategy activation and inclusive collaboration.
 
-### Capture Board & Sensemaking
+#### Capture Board & Sensemaking
 
-Unlock your team's collective intelligence with our Capture Board & Sensemaking feature. This digital collaboration space allows teams to brainstorm and build upon ideas simultaneously. As ideas flow, use our upvoting and prioritization tools to uncover patterns and insights. The ability to clarify and modify ideas in real-time ensures that your team's thinking evolves collaboratively. When the session ends, easily export your boards and sense-making outcomes to meeting notes, ensuring that valuable insights are captured and actionable.
+Unlock your team's collective intelligence with our **Capture Board** & **Sensemaking** feature. This digital collaboration space allows teams to brainstorm and build upon ideas simultaneously. As ideas flow, use our upvoting and prioritization tools to uncover patterns and insights. The ability to clarify and modify ideas in real-time ensures that your team's thinking evolves collaboratively. When the session ends, easily export your boards and sense-making outcomes to meeting notes, ensuring that valuable insights are captured and actionable.
 
-### Group Voting
+#### Group Voting
 
-Make inclusive, transparent decisions with our Group Voting feature. Whether you're making decisions in real-time during a meeting or preparing proposals in advance, our flexible voting system ensures that all voices are heard. Choose from consent, consensus, or majority voting methods to best suit your organization's culture and the decision at hand. The collaborative voting process promotes honest feedback while maintaining transparency. After voting rounds, hold focused workshops to discuss results and modify proposals as needed. Once finalized, seamlessly convert proposals into logged decisions that are visible and actionable across the system in a few clicks, ensuring follow-through and accountability.
+Make inclusive, transparent decisions with our **Group Voting** feature. Whether you're making decisions in real-time during a meeting or preparing proposals in advance, our flexible voting system ensures that all voices are heard. Choose from consent, consensus, or majority voting methods to best suit your organization's culture and the decision at hand. The collaborative voting process promotes honest feedback while maintaining transparency. After voting rounds, hold focused workshops to discuss results and modify proposals as needed. Once finalized, seamlessly convert proposals into logged decisions that are visible and actionable across the system in a few clicks, ensuring follow-through and accountability.
 
-### Realtime Decision Capture
+#### Realtime Decision Capture
 
-Foster a culture of clear, collaborative decision-making with our Realtime Decision Capture feature. Implement standardized workflows for proposing and documenting decisions, ensuring that the right stakeholders are always included through flexible voting options. By tying each decision to relevant strategies, priorities, values, and impacted teams, you create a rich context that helps everyone understand the rationale behind choices. All decisions are stored in a centralized repository, making it easy to reference past decisions and track their outcomes. Over time, gain valuable insights into your decision-making patterns, identifying areas for improvement and learning.
+Foster a culture of clear, collaborative decision-making with our **Realtime Decision Capture** feature. Implement standardized workflows for proposing and documenting decisions, ensuring that the right stakeholders are always included through flexible voting options. By tying each decision to relevant strategies, priorities, values, and impacted teams, you create a rich context that helps everyone understand the rationale behind choices. All decisions are stored in a centralized repository, making it easy to reference past decisions and track their outcomes. Over time, gain valuable insights into your decision-making patterns, identifying areas for improvement and learning.
 
 ### Org-wide Decision Manager
 
-Transform decision-making from a point-in-time event to an ongoing, strategic process. Our Org-wide Decision Manager allows you to organize decisions using custom tags and archiving, keeping your focus on active, relevant choices. For each decision, access full context, notes, and impacts in one place, ensuring that nothing falls through the cracks. Powerful search and filtering capabilities make it easy to find and reference past decisions, informing future planning. Use tags to create custom workflows that drive communication and execution, turning decisions into action. By centralizing and activating your organization's choices, you'll improve consistency, follow-through, and strategic alignment across all levels.
+Transform decision-making from a point-in-time event to an ongoing, strategic process. Our **Org-wide Decision Manager** allows you to organize decisions using custom tags and archiving, keeping your focus on active, relevant choices. For each decision, access full context, notes, and impacts in one place, ensuring that nothing falls through the cracks. Powerful search and filtering capabilities make it easy to find and reference past decisions, informing future planning. Use tags to create custom workflows that drive communication and execution, turning decisions into action. By centralizing and activating your organization's choices, you'll improve consistency, follow-through, and strategic alignment across all levels.
 
 ### Community Member Participation
 
@@ -89,7 +101,7 @@ Stay on top of your commitments and your teams' progress with Your Dashboard. Th
 
 ### Document Link Library
 
-Say goodbye to version control nightmares and endless searches for the right file. Our Document Link Library centralizes file management within the context of each table, streamlining collaboration and ensuring everyone has access to the most up-to-date information. By integrating with your existing file-sharing platforms, we maintain your established access and security controls while providing a clear work context for every document. This feature transforms how your tables operate, keeping everyone on the same page and reducing time wasted on administrative tasks.
+Say goodbye to version control nightmares and endless searches for the right file. Our **Document Link Library** centralizes file management within the context of each table, streamlining collaboration and ensuring everyone has access to the most up-to-date information. By integrating with your existing file-sharing platforms, we maintain your established access and security controls while providing a clear work context for every document. This feature transforms how your tables operate, keeping everyone on the same page and reducing time wasted on administrative tasks.
 
 ### Values Capture
 
