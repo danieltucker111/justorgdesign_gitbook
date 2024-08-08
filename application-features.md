@@ -49,6 +49,10 @@ Design your organization for efficacy and alignment. The Table/Structure Manager
 
 Visualize your organization's structure and strategy alignment at-a-glance. This dynamic view offers a real-time snapshot of your organization's current purpose, strategies, cross-functional teams, and functional groups. Ensure everyone has an up-to-date understanding of your organization's intentional design through this visual representation, which updates instantly based on actual organizational activities.
 
+### Board and Community Member Participation
+
+Amplify the voices of your key stakeholders with our **Board and Community Member Participation** feature. Easily include community representatives on relevant cross-functional tables, ensuring their perspectives are integrated into your strategic sensemaking and decision-making. This feature allows you to collaborate with community partners in an organized, intentional way, strengthening relationships and improving the relevance and effectiveness of your work.
+
 
 
 ## Strategy Activation and Decision-Making
@@ -88,10 +92,6 @@ Foster a culture of clear, collaborative decision-making with our **Realtime Dec
 ### Org-wide Decision Manager
 
 Transform decision-making from a point-in-time event to an ongoing, strategic process. Our **Org-wide Decision Manager** allows you to organize decisions using custom tags and archiving, keeping your focus on active, relevant choices. For each decision, access full context, notes, and impacts in one place, ensuring that nothing falls through the cracks. Powerful search and filtering capabilities make it easy to find and reference past decisions, informing future planning. Use tags to create custom workflows that drive communication and execution, turning decisions into action. By centralizing and activating your organization's choices, you'll improve consistency, follow-through, and strategic alignment across all levels.
-
-### Community Member Participation
-
-Amplify the voices of your key stakeholders with our Community Member Participation feature. Easily include community representatives on relevant cross-functional tables, ensuring their perspectives are integrated into your strategic sensemaking and decision-making. This feature allows you to collaborate with community partners in an organized, intentional way, strengthening relationships and improving the relevance and effectiveness of your work.
 
 ## Support Features to Improve Experience
 
