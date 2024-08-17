@@ -49,7 +49,7 @@ Creating a Strategy involves articulating:
 
 1. Strategy Name
 2. Strategy Challenge to be explicit about the gap the organization is working to close
-3. Strategy Approach to offer people guidance and guardrails in thinking about how to active the strategy
+3. Strategy Approach to offer people guidance and guardrails in thinking about how to activate the strategy
 4. Strategic Priorities to offer time-bound actions that leadership envisions the organization accomplishing in the near term to activate the strategy
 
 
