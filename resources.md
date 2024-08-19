@@ -92,7 +92,7 @@ by Ananda Valenzuela and Susan Misra
 by Seeds for Change\
 
 
-[**Team Decision Making: The Gradients of Agreement**](https://www.trg-inc.com/resources/team-decision-making-the-gradients-of-agreement/)\
+[**Team Decision Making: The Gradients of Agreement**](https://www.trg-inc.com/learning-hub/gradients)\
 by Training Resources Group\
 
 
