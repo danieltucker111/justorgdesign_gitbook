@@ -35,13 +35,13 @@ JustOrg Design ensures everyone at a justice-committed organization understands 
 
 This Process Guide walks readers through the fundamentals of JustOrg Design:
 
-* [ ] Defining Organizational Design&#x20;
-* [ ] Strategy&#x20;
-* [ ] Structure&#x20;
-* [ ] Decision-making&#x20;
-* [ ] Key Roles&#x20;
-* [ ] Application Features&#x20;
-* [ ] Resources
+* [ ] [Defining Organizational Design ](defining-organizational-design.md)
+* [ ] [Strategy](strategy.md)&#x20;
+* [ ] [Structure](structure.md)&#x20;
+* [ ] [Decision-making](decision-making.md)&#x20;
+* [ ] [Key Roles](key-roles.md)&#x20;
+* [ ] [Application Features](application-features.md)&#x20;
+* [ ] [Resources](resources.md)
 
 Please visit [our website](https://www.justorgdesign.com) for more information and to read [our blog](https://www.justorgdesign.com/blog).
 
