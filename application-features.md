@@ -99,10 +99,6 @@ Transform decision-making from a point-in-time event to an ongoing, strategic pr
 
 Stay on top of your commitments and your teams' progress with Your Dashboard. This personalized hub gives you a single view of all your commitments across the organization, helping you manage your time and priorities effectively. See at a glance the key actions each of your tables is currently focused on, ensuring you're always prepared for upcoming discussions. Quick access to your upcoming meetings keeps you organized and ready to contribute meaningfully to each session. Your Dashboard turns the complexity of organizational work into a clear, actionable overview tailored just for you.
 
-### Document Link Library
-
-Say goodbye to version control nightmares and endless searches for the right file. Our **Document Link Library** centralizes file management within the context of each table, streamlining collaboration and ensuring everyone has access to the most up-to-date information. By integrating with your existing file-sharing platforms, we maintain your established access and security controls while providing a clear work context for every document. This feature transforms how your tables operate, keeping everyone on the same page and reducing time wasted on administrative tasks.
-
 ### Values Capture
 
 Ensure your organization's values are more than just words on a wall. The Values Capture feature allows you to link each decision to the specific values it advances, creating a tangible record of how your choices reflect your principles in practice. By keeping values top of mind during group decision-making, you reinforce their importance and create a culture of intentional, values-driven action. Over time, gain insights into how consistently your choices align with your stated values, allowing for reflection and course-correction if needed.
