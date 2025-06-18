@@ -25,7 +25,7 @@ layout:
 
 Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8)
 
-### Purpose, Values, Strategies, and Priorities
+## Purpose, Values, Strategies, and Priorities
 
 We use four key terms that everyone on staff and board can learn to engage in strategy activation. It’s critical that leadership commits to using words hyper-consistently so that everyone can learn and speak the language of strategy across your organization.
 
@@ -51,7 +51,7 @@ We don’t believe that everyone in an organization can, will, or _needs_ to lea
 
 If need be, it’s very possible to cross-walk other strategy terms from your strategic plan or theory of change to the JustOrg Design system. In fact, we believe it is necessary to do that if you want everyone on staff and board to engage in strategy activation every day.
 
-### Teams and Tables (Groups)
+## Teams and Tables (Groups)
 
 With your purpose and strategies articulated, you can turn to structuring the organization with the express intent to activate them every day.
 
@@ -92,7 +92,7 @@ Every group in your organizational design has the same scoping, ensuring everyon
 
 It’s important to remember–and to socialize across your staff–that very little about your Group structure is permanent. As the operating context changes, your strategies and priorities evolve, and so too will the purpose, DRDs, and composition of your Teams and Tables.
 
-### Key Roles
+## Key Roles
 
 Central to the ethos of JustOrg Design is making group work work. The clear scoping of Teams/Tables, as described above, is critical to that. But so too are clear Group roles.
 
