@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/pexels-pixabay-277593.jpg
-coverY: 62.81646273637375
+cover: .gitbook/assets/pexels-kindel-media-7688159 (1).jpg
+coverY: 0
 layout:
   cover:
     visible: true
