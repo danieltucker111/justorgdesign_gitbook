@@ -43,7 +43,7 @@ The Executive Team uses the Organization Rollup Report to facilitate discussion 
 
 In the partial screenshot of this report below, you see the data presented for each Group: last 5 Decisions made, top three Actions planned, the Meeting Names and dates of their three most recent meetings, and lastly, the next Meeting Name and date they have scheduled.
 
-\[DAN - insert screenshot of a populated email here?]
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Screenshot of JOD Organization Rollup Report</p></figcaption></figure>
 
 ### Example: Executive Team Meeting with Strategy Progress Report
 
@@ -53,7 +53,7 @@ In the partial screenshot of this report below, you see the data presented for e
 
 This report is also extremely useful in preparing for board meetings. To keep boards focused at the strategy level, leadership can select key progress stories from this report: recent, specific examples of how the staff is activating a given strategy. You set your desired data range for the review and discussion, e.g. one month, one quarter, etc.
 
-\[DAN - insert screenshot of a partial report here?]
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Screenshot of JOD Strategy Progress Report</p></figcaption></figure>
 
 ### Example: Sponsor-Conveners Meeting with Group Plans Report
 
@@ -63,7 +63,6 @@ In preparing for and having a check-in meeting with Group Conveners, the Sponsor
 
 In the partial screenshot of this report below, you see the data presented for each Group: active Action sorted by Strategy and planned Meeting Names and dates. This is a snapshot of where the Group is focused and what its current plans are. The Sponsor can guide and, where necessary, course correct.
 
-\
-\[DAN - insert screenshot of a partial here?]
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Screenshot of JOD Team/Table Plans (Roadmap) Report</p></figcaption></figure>
 
 \

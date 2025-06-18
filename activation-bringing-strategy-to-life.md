@@ -162,7 +162,7 @@ Select which organizational strategy(s) and priorities, if any, the decision hel
 Decisions are broadcast on reports as key expressions of strategy activation.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -201,9 +201,7 @@ The Meeting Environment also has a group brainstorming and ideation tool called 
 
 Once a meeting has ended, the Convener(s) ensure all Decisions, Commitments, and Meeting Notes are captured and accurate and then they hit the “Email Results Now” button. This sends an email to all meeting invitees that cleanly delineates the Decisions made, the Commitments made and completed, the Documents Linked for the meeting discussion, and the Meeting Notes.
 
-\
 
 
-\[DAN - insert screenshot of a populated email here?]
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>JOD Screenshot of Meeting Results Email</p></figcaption></figure>
 
-\
