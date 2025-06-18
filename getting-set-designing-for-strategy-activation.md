@@ -67,7 +67,7 @@ people from across two or more teams coordinating, setting direction, etc.\
 e.g. people and culture or learning and evaluation or defining an emergent strategy
 {% endhint %}
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_bR4AGm-Aimw5HNak778eMOW0PiA2TbQWdLwI4c0gjrpR5tzpIdt3_U946NgE5_2b24t6078Hy63890MYM1q1juNlVppQ8CktaDAw2pv2uUApr60wAG1Ra8rCU2zCtE9Aoh6Atw?key=EgSrytd4J1SSaw9kr-J_MA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_bR4AGm-Aimw5HNak778eMOW0PiA2TbQWdLwI4c0gjrpR5tzpIdt3_U946NgE5_2b24t6078Hy63890MYM1q1juNlVppQ8CktaDAw2pv2uUApr60wAG1Ra8rCU2zCtE9Aoh6Atw?key=EgSrytd4J1SSaw9kr-J_MA" alt=""><figcaption><p>Diagram of a JustOrg Design</p></figcaption></figure>
 
 In order to give every Team and Table deep clarity about how, specifically, they are charged with activating strategy, we use a consistent scoping process with the elements below.
 
@@ -120,7 +120,7 @@ Having Co-Conveners is usually the best path. This shares the labor and responsi
 
 The foundational work described in this section is also captured in the five step process image below. Once you have a solid version one of the design, you can move forward to activation, which we outline in the next section.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcihAjvuHQ7NX4vWMVrVs21XfXWs5XmbsWOus5bJBVwxbZGcjKgjrItZdAmTywSIOqi5bYt7vvDUW6MhZYecvxTVwVXK_VogPEWOcnqgIOk49MorwjaCMwCKloj2MFKSgyxIcOeBg?key=EgSrytd4J1SSaw9kr-J_MA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcihAjvuHQ7NX4vWMVrVs21XfXWs5XmbsWOus5bJBVwxbZGcjKgjrItZdAmTywSIOqi5bYt7vvDUW6MhZYecvxTVwVXK_VogPEWOcnqgIOk49MorwjaCMwCKloj2MFKSgyxIcOeBg?key=EgSrytd4J1SSaw9kr-J_MA" alt=""><figcaption><p>Screenshot of JOD Onboarding Star</p></figcaption></figure>
 
 \
 

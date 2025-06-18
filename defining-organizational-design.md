@@ -11,7 +11,7 @@ Because justice-centered strategies are inherently emergent and dynamic, our str
 
 
 
-<figure><img src=".gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt="" width="563"><figcaption><p>Strategy-Based Organizational Design</p></figcaption></figure>
 
 Organizational design is ongoing strategic leadership work. It cannot be maintained in a static org chart or a powerpoint deck. It is an active and ongoing set of choices that leadership makes to ensure everyone is engaged in the most important work the organization can be doing in its movement or field right now.
 

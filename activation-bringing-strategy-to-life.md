@@ -162,7 +162,7 @@ Select which organizational strategy(s) and priorities, if any, the decision hel
 Decisions are broadcast on reports as key expressions of strategy activation.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Screenshot of JOD Voting Room workflow</p></figcaption></figure>
 
 
 
@@ -203,5 +203,5 @@ Once a meeting has ended, the Convener(s) ensure all Decisions, Commitments, and
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>JOD Screenshot of Meeting Results Email</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>JOD Screenshot of Meeting Results Email</p></figcaption></figure>
 
