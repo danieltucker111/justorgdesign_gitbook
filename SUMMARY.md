@@ -4,7 +4,7 @@
 * [Defining Organizational Design](defining-organizational-design.md)
 * [Getting Set: Designing for Strategy Activation](getting-set-designing-for-strategy-activation.md)
 * [Activation: Bringing Strategy to Life](activation-bringing-strategy-to-life.md)
-* [Decision-making](decision-making.md)
+* [Adaptation & Celebration: Using Your Own Data](adaptation-and-celebration-using-your-own-data.md)
 * [Key Roles](key-roles.md)
 * [Application Features](application-features.md)
 * [Resources](resources.md)

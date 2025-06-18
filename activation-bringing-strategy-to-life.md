@@ -157,14 +157,14 @@ Select whether the Team or Table made the decision or an individual(s) in the gr
 Select the decision method:\
 For decisions made by an individual(s), you can choose either a positional decision or a positional decision with an advice process wherein impacted people were consulted prior to making the decision.\
 \
-For a Team or Table decision, you can select consent, consensus, or majority.
-
-\[Dan - add CONSENT screenshot here?
+For a Team or Table decision, you can select consent, consensus, or majority. (see screenshot below)
 
 Select which organizational strategy(s) and priorities, if any, the decision helped to activate.
 
 Decisions are broadcast on reports as key expressions of strategy activation.
 {% endhint %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **COMMITMENT**\
