@@ -29,7 +29,7 @@ Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8
 
 We use four key terms that everyone on staff and board can learn to engage in strategy activation. It’s critical that leadership commits to using words hyper-consistently so that everyone can learn and speak the language of strategy across your organization.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **DEFINITIONS**
 
 **PURPOSE**\
@@ -47,19 +47,15 @@ what we must do this year to activate our strategies
 
 We don’t believe that everyone in an organization can, will, or _needs_ to learn more than these four terms to engage confidently in strategy activation from wherever they sit. When we introduce too many terms that are nearly impossible to distinguish from one another, people, understandably, tune out; confusion and even cynicism about strategy set in.&#x20;
 
-
-
 If need be, it’s very possible to cross-walk other strategy terms from your strategic plan or theory of change to the JustOrg Design system. In fact, we believe it is necessary to do that if you want everyone on staff and board to engage in strategy activation every day.
 
 ## Teams and Tables (Groups)
 
 With your purpose and strategies articulated, you can turn to structuring the organization with the express intent to activate them every day.
 
-
-
 There are two types of group structures for you to identify and scope.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **DEFINITIONS**
 
 **TEAMS**\
@@ -75,7 +71,7 @@ e.g. people and culture or learning and evaluation or defining an emergent strat
 
 In order to give every Team and Table deep clarity about how, specifically, they are charged with activating strategy, we use a consistent scoping process with the elements below.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **DEFINITIONS**
 
 **TEAM/TABLE (GROUP) PURPOSE**\
@@ -104,7 +100,7 @@ the senior staff person accountable for the Group’s success; provides coaching
 {% endhint %}
 
 {% hint style="success" %}
-Pro Tip
+Important Note
 
 The Sponsor role must be filled with a senior staff person who is committed to energizing this essential guide/coach role; the Group will likely stumble, and even fail, if not.\
 \
@@ -117,7 +113,7 @@ the person(s) who plan the Group’s work: set meeting agendas, co-facilitate me
 {% endhint %}
 
 {% hint style="success" %}
-Key to Know
+Important Note
 
 Having Co-Conveners is usually the best path. This shares the labor and responsibility while allowing recruitment for strengths across two people including subject matter knowledge, facilitation skills, and administrative follow-through.
 {% endhint %}

@@ -29,71 +29,69 @@ Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/
 
 Group Conveners, with the guidance and support of their Sponsors, manage their bodies of work in the Planner. Robust and consistent use of the Planner between full group meetings is essential to the JustOrg Design system and to strategy activation and alignment. The Planner It is not optional for Conveners and Sponsors to manage the work in the Planner. Below are the elements of the Planner.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **MEETING AGENDAS**\
 the intentional design of all Group meetings
 {% endhint %}
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
-Designing effective meetings is an essential responsibility of Conveners.\
-\
-Conveners can add and plan multiple meetings in advance from the Planner.\
-\
+Designing effective meetings is an essential responsibility of Conveners.
+
+Conveners can add and plan multiple meetings in advance from the Planner.
+
 Meeting Names (but not topics or notes) are broadcast on reports; these names indicate where the Group is investing its time and attention.
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 **ACTIONS**\
 steps the Group plans to take to fulfill its purpose and activate relevant strategies and priorities
 {% endhint %}
 
-{% hint style="warning" %}
-Important\
+{% hint style="success" %}
+Important Note
 
+Keeping the Action list up to date is an essential responsibility of Convener(s).
 
-Keeping the Action list up to date is an essential responsibility of Convener(s).\
-\
 Planned and completed Actions are broadcast on reports; this is a key way that Conveners communicate their Group’s strategic contributions and progress.
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 **OUR OPEN COMMITMENTS**\
 lists open Commitments made by Group participants
 {% endhint %}
 
-{% hint style="warning" %}
-Important\
-
+{% hint style="success" %}
+Important Note
 
 Commitments can only be made during a Group meeting; this list, on the Planner, is so that as they are managing the body of work, Conveners are mindful of what people have committed to and on what timeline.
 
 When a Commitment is labeled, “Ready to review,” it means that the Commitment-maker has checked it as done on their own dashboard and is prepared to update the group at the next meeting.
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 **OUR DECISIONS**\
 lists decisions made by the Group
 {% endhint %}
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
 Decisions can only be made during a Group meeting; this list, on the Planner, is so that as they are managing the body of work, Conveners are mindful of what next steps, or Actions, a decision-made may require.
 
 Planned and completed Decisions are broadcast on reports; this is a key way that Conveners communicate their Team or Table’s strategic contributions and progress.
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 **LINKED DOCUMENTS**
 
 links to essential files for the Group’s work (docs, slides, web-based apps, etc.)\
 
 {% endhint %}
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
 Only Conveners and Sponsors can add and delete items on this list.\
 \
@@ -114,8 +112,8 @@ On the left-hand side is easy reference information about the Group itself: its 
 
 Then, the body of the section contains meeting logistics: the Meeting Name, date/time, physical location or video link, and invitees.
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
 Meeting Names are an important indicator of the Group’s investment of attention, so they show up on reports. Always give the meeting a name based on the core agenda topic(s).
 
@@ -130,8 +128,8 @@ The second section starts with Meeting Purpose; it’s critical to articulate cl
 
 Then you begin adding and adjusting Agenda Topics. For each Agenda Topic, the person playing lead on the agenda item is listed, as is the amount of time allotted for the item. You can reorder topics as you build the agenda.&#x20;
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
 Watch the red “Remaining minutes” counter in the upper right hand corner of the Agenda Topics list; this helps you plan your timing as you design the meeting.
 
@@ -142,21 +140,21 @@ This is also the section where you link document(s) relevant to this particular 
 
 Decisions and Commitments are the most tangible results of a Team or Table Meeting. They are, quite literally, how strategy is activated. It is critical, therefore, that Conveners, and participants overall, are listening for and capturing decisions and commitments as they arise throughout a meeting. These terms and processes are outlined below.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **DECISION**\
 the strategic choice to do or not do something
 {% endhint %}
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
-Capture the short articulation of the decision. You can add more details if you like.\
-\
-Select whether the Team or Table made the decision or an individual(s) in the group made it.\
-\
+Capture the short articulation of the decision. You can add more details if you like.
+
+Select whether the Team or Table made the decision or an individual(s) in the group made it.
+
 Select the decision method:\
-For decisions made by an individual(s), you can choose either a positional decision or a positional decision with an advice process wherein impacted people were consulted prior to making the decision.\
-\
+For decisions made by an individual(s), you can choose either a positional decision or a positional decision with an advice process wherein impacted people were consulted prior to making the decision.
+
 For a Team or Table decision, you can select consent, consensus, or majority. (see screenshot below)
 
 Select which organizational strategy(s) and priorities, if any, the decision helped to activate.
@@ -166,13 +164,15 @@ Decisions are broadcast on reports as key expressions of strategy activation.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
+
+
+{% hint style="info" %}
 **COMMITMENT**\
 an individual’s promise to do something
 {% endhint %}
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
 Commitments are how Group participants promise to activate the meeting conversation and decisions in their own work after the meeting.
 
@@ -191,8 +191,8 @@ In the upper right, you can select a Note Taker in the drop down menu; simply ch
 
 For ease, you can use the Insert Content into Notes drop down to pre-populate the notes with all meeting invitee names and/or with the Agenda Topics as headers, under which you can take notes along with meeting agenda flow.
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Important Note
 
 The Meeting Environment also has a group brainstorming and ideation tool called the Capture Board. Conveners use this tool when an Agenda Topic benefits from people writing in answers to a prompt and the group reviewing results together in real time. More information on how to use this feature is here.
 {% endhint %}
