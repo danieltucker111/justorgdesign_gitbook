@@ -98,26 +98,26 @@ Central to the ethos of JustOrg Design is making group work work. The clear scop
 
 Each Group has two roles that should be filled with care; that is, ensuring that the people fulfilling these roles bring both the skills and the energy the roles require. Successful group work absolutely depends on their contributions! These two roles are defined below.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **SPONSOR**\
 the senior staff person accountable for the Group’s success; provides coaching and course-correction on a continuous basis
 {% endhint %}
 
-{% hint style="info" %}
-Important
+{% hint style="success" %}
+Pro Tip
 
 The Sponsor role must be filled with a senior staff person who is committed to energizing this essential guide/coach role; the Group will likely stumble, and even fail, if not.\
 \
 The Sponsor meets regularly with the Conveners to track progress and help set direction. They are critical translators to the Conveners of the discourse among executive leadership.
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 **CONVENER(S)**\
 the person(s) who plan the Group’s work: set meeting agendas, co-facilitate meetings, and broadcast in real time the Group’s strategy activation results
 {% endhint %}
 
-{% hint style="warning" %}
-Important
+{% hint style="success" %}
+Key to Know
 
 Having Co-Conveners is usually the best path. This shares the labor and responsibility while allowing recruitment for strengths across two people including subject matter knowledge, facilitation skills, and administrative follow-through.
 {% endhint %}
