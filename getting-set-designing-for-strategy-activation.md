@@ -46,7 +46,7 @@ PRIORITIES:
 what we must do this year to activate our strategies
 {% endhint %}
 
-We don’t believe that everyone in an organization can, will, or needs to learn more than these four terms to engage confidently in strategy activation from wherever they sit. When we introduce too many terms that are nearly impossible to distinguish from one another, people, understandably, tune out; confusion and even cynicism about strategy set in.&#x20;
+We don’t believe that everyone in an organization can, will, or _needs_ to learn more than these four terms to engage confidently in strategy activation from wherever they sit. When we introduce too many terms that are nearly impossible to distinguish from one another, people, understandably, tune out; confusion and even cynicism about strategy set in.&#x20;
 
 
 
@@ -99,8 +99,10 @@ Central to the ethos of JustOrg Design is making group work work. The clear scop
 
 Each Group has two roles that should be filled with care; that is, ensuring that the people fulfilling these roles bring both the skills and the energy the roles require. Successful group work absolutely depends on their contributions! These two roles are defined below.
 
+{% hint style="info" %}
 SPONSOR:\
 the senior staff person accountable for the Group’s success; provides coaching and course-correction on a continuous basis
+{% endhint %}
 
 {% hint style="warning" %}
 Important:
@@ -110,8 +112,10 @@ The Sponsor role must be filled with a senior staff person who is committed to e
 The Sponsor meets regularly with the Conveners to track progress and help set direction. They are critical translators to the Conveners of the discourse among executive leadership.
 {% endhint %}
 
+{% hint style="info" %}
 CONVENER(S):\
 the person(s) who plan the Group’s work: set meeting agendas, co-facilitate meetings, and broadcast in real time the Group’s strategy activation results
+{% endhint %}
 
 {% hint style="warning" %}
 Important:\
