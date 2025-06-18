@@ -103,7 +103,7 @@ Each Group has two roles that should be filled with care; that is, ensuring that
 the senior staff person accountable for the Group’s success; provides coaching and course-correction on a continuous basis
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Important
 
 The Sponsor role must be filled with a senior staff person who is committed to energizing this essential guide/coach role; the Group will likely stumble, and even fail, if not.\
