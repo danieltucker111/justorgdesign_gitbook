@@ -29,20 +29,19 @@ Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8
 
 We use four key terms that everyone on staff and board can learn to engage in strategy activation. It’s critical that leadership commits to using words hyper-consistently so that everyone can learn and speak the language of strategy across your organization.
 
-{% hint style="info" %}
+{% hint style="success" %}
 **DEFINITIONS**
 
-PURPOSE:\
+**PURPOSE**\
 our organization's core reason for being
 
-VALUES:\
+**VALUES**\
 the beliefs that inform our analyses and guide our behavior
 
-STRATEGIES:\
+**STRATEGIES**\
 how we generate enough influence to be a causal factor in the change we seek
 
-PRIORITIES:
-
+**PRIORITIES**\
 what we must do this year to activate our strategies
 {% endhint %}
 
@@ -60,14 +59,14 @@ With your purpose and strategies articulated, you can turn to structuring the or
 
 There are two types of group structures for you to identify and scope.
 
-{% hint style="info" %}
+{% hint style="success" %}
 **DEFINITIONS**
 
-TEAMS:\
+**TEAMS**\
 people working together in a single function\
 e.g. delivery of a single program or a communications team or an accounting team
 
-TABLES:\
+**TABLES**\
 people from across two or more teams coordinating, setting direction, etc.\
 e.g. people and culture or learning and evaluation or defining an emergent strategy
 {% endhint %}
@@ -76,16 +75,16 @@ e.g. people and culture or learning and evaluation or defining an emergent strat
 
 In order to give every Team and Table deep clarity about how, specifically, they are charged with activating strategy, we use a consistent scoping process with the elements below.
 
-{% hint style="info" %}
+{% hint style="success" %}
 **DEFINITIONS**
 
-TEAM/TABLE (GROUP) PURPOSE:\
+**TEAM/TABLE (GROUP) PURPOSE**\
 the Group’s reason for being
 
-GROUP STRATEGY(S) ACTIVATED:\
+**GROUP STRATEGY(S) ACTIVATED**\
 the organizational strategy(s) the Group are particularly charged with activating
 
-GROUP DRDs (Decides, Recommends, and/or Delivers):\
+**GROUP DRDs (Decides, Recommends, and/or Delivers)**\
 what the Group shall decide; what the Group shall recommend; and what the TeamTable shall deliver
 {% endhint %}
 
@@ -99,26 +98,27 @@ Central to the ethos of JustOrg Design is making group work work. The clear scop
 
 Each Group has two roles that should be filled with care; that is, ensuring that the people fulfilling these roles bring both the skills and the energy the roles require. Successful group work absolutely depends on their contributions! These two roles are defined below.
 
-{% hint style="info" %}
-SPONSOR:\
+{% hint style="success" %}
+**SPONSOR**\
 the senior staff person accountable for the Group’s success; provides coaching and course-correction on a continuous basis
 {% endhint %}
 
 {% hint style="warning" %}
-Important:
+Important
 
 The Sponsor role must be filled with a senior staff person who is committed to energizing this essential guide/coach role; the Group will likely stumble, and even fail, if not.\
 \
 The Sponsor meets regularly with the Conveners to track progress and help set direction. They are critical translators to the Conveners of the discourse among executive leadership.
 {% endhint %}
 
-{% hint style="info" %}
-CONVENER(S):\
+{% hint style="success" %}
+**CONVENER(S)**\
 the person(s) who plan the Group’s work: set meeting agendas, co-facilitate meetings, and broadcast in real time the Group’s strategy activation results
 {% endhint %}
 
 {% hint style="warning" %}
-Important:\
+Important
+
 Having Co-Conveners is usually the best path. This shares the labor and responsibility while allowing recruitment for strengths across two people including subject matter knowledge, facilitation skills, and administrative follow-through.
 {% endhint %}
 

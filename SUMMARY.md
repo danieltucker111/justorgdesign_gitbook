@@ -3,7 +3,7 @@
 * [Welcome from the Co-Founders](README.md)
 * [Defining Organizational Design](defining-organizational-design.md)
 * [Getting Set: Designing for Strategy Activation](getting-set-designing-for-strategy-activation.md)
-* [Structure](structure.md)
+* [Activation: Bringing Strategy to Life](activation-bringing-strategy-to-life.md)
 * [Decision-making](decision-making.md)
 * [Key Roles](key-roles.md)
 * [Application Features](application-features.md)
