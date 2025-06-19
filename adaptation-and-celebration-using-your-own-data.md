@@ -19,7 +19,7 @@ layout:
 
 # Adaptation & Celebration: Using Your Own Data
 
-Image credit: [Pixabay on pexels](https://www.pexels.com/photo/architecture-black-and-white-challenge-chance-277593/)
+Image credit: [Nick Rush](https://www.pexels.com/photo/group-of-swimmers-celebrating-11211136/)
 
 The beauty of using a single, integrative system to capture and activate strategy organization-wide is the data you then have at your fingertips about your progress. Without any additional entry of data, you can see how each Group is doing as well as how each Strategy and Priority are being activated.&#x20;
 
