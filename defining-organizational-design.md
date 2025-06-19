@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Intro to JoD (1).jpg
-coverY: -181.71015625
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
+coverY: 0
 layout:
   cover:
     visible: true

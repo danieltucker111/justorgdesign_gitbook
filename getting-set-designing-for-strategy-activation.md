@@ -23,7 +23,7 @@ layout:
 
 # Getting Set: Designing for Strategy Activation
 
-Image credit: [Emily Rose](https://www.pexels.com/photo/swimmers-ready-to-swim-on-pool-2062702/)
+Ai generated image
 
 ## Purpose, Values, Strategies, and Priorities
 

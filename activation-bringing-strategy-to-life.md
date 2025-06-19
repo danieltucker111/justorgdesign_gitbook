@@ -23,7 +23,7 @@ layout:
 
 # Activation: Bringing Strategy to Life
 
-Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/faEfWCdOKIg)  [david hou](https://www.pexels.com/photo/competitive-swimmers-racing-in-a-pool-31820084/)
+Ai generated image
 
 ## The Planner
 
