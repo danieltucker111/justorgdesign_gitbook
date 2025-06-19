@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-06-19 at 11.19.56 AM.png
-coverY: 170.11184210526318
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.23.30 AM.png
+coverY: 0
 layout:
   cover:
     visible: true
