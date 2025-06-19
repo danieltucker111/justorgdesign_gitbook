@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/jod_ekzaone (1).jpg
-coverY: 245.60802323190788
+coverY: 87.67701994243419
 layout:
   cover:
     visible: true

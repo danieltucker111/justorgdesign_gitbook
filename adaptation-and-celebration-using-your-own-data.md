@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/pexels-nick-rush-2508183-11211136.jpg
-coverY: -338.63998766447367
+coverY: -1134.3947368421054
 layout:
   cover:
     visible: true
