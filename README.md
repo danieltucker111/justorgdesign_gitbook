@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-06-19 at 11.23.30 AM.png
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.31.12 AM.png
 coverY: 0
 layout:
   cover:
