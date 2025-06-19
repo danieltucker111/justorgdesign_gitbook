@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/pexels-nick-rush-2508183-11211143.jpg
+cover: .gitbook/assets/create_a_hero_image_for_this_title.jpeg
 coverY: 0
 layout:
   cover:
