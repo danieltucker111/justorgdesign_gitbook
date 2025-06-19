@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/create_a_hero_image_for_this_title.jpeg
+cover: .gitbook/assets/celebration.png
 coverY: 0
 layout:
   cover:
