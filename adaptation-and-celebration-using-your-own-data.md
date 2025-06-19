@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/pexels-kindel-media-7688159 (1).jpg
-coverY: 0
+cover: .gitbook/assets/pexels-nick-rush-2508183-11211136.jpg
+coverY: -338.63998766447367
 layout:
   cover:
     visible: true

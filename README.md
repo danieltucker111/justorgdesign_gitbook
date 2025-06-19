@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/jod_ekzaone (1).jpg
-coverY: 246
+coverY: 245.60802323190788
 layout:
   cover:
     visible: true
@@ -28,6 +28,8 @@ At JustOrg Design, our purpose is to cultivate and sustain the practice of strat
 We take as inspiration what the the renowned abolitionist and scholar Ruth Wilson Gilmore recently said:
 
 > If consciousness is the means through which we imagine ourselves into the future, then organizations are the form.
+
+
 
 JustOrg Design ensures everyone at a justice-committed organization understands and participates in the activation of organizational strategies. Ever-deepening understanding and activation of strategy across all functions and levels of the organization nurtures alignment, shared leadership, conscious decision-making, and ultimately, greater social impact.
 

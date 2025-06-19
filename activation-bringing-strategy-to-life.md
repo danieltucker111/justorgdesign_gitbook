@@ -3,8 +3,8 @@ description: >-
   In this section, we define the core terms and processes of strategy
   activation–how you bring strategy to life in the course of your work every day
   across the organization.
-cover: .gitbook/assets/christina-wocintechchat-com-faEfWCdOKIg-unsplash (1).jpg
-coverY: -112.35387962291516
+cover: .gitbook/assets/pexels-david-hou-1637526441-31820084.jpg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -23,7 +23,7 @@ layout:
 
 # Activation: Bringing Strategy to Life
 
-Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/faEfWCdOKIg)
+Image credit: [Christina Wocintechchat on unsplash](https://unsplash.com/photos/faEfWCdOKIg)  [david hou](https://www.pexels.com/photo/competitive-swimmers-racing-in-a-pool-31820084/)
 
 ## The Planner
 

@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Intro to JoD (1).jpg
+coverY: -52.5283203125
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Defining Organizational Design
 
 
@@ -6,6 +25,8 @@ At JustOrg Design, we define organizational design as:
 
 > the intentional and ongoing co-activation of organizational strategy,\
 > structure, and decision-making
+
+
 
 Because justice-centered strategies are inherently emergent and dynamic, our structures have to be flexible enough to hold and advance them. Because decision-making is how strategy is actually activated, it has to be conscious and skillful across the organization. Organizational design is about making sure there is a strong and elegant relationship between your active strategies, your active structures, and your active choice-making.
 

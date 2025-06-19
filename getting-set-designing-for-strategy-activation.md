@@ -3,7 +3,7 @@ description: >-
   In this section, we define terms and guide the process for the foundational
   work necessary to activate strategy across your organization using the JustOrg
   Design system.
-cover: .gitbook/assets/3.png
+cover: .gitbook/assets/pexels-emily-rose-1076056-2062702.jpg
 coverY: 0
 layout:
   cover:
@@ -23,7 +23,7 @@ layout:
 
 # Getting Set: Designing for Strategy Activation
 
-Image credit: [Tim Peterson on Unsplash](https://unsplash.com/photos/KHrwWI5rdo8)
+Image credit: [Emily Rose](https://www.pexels.com/photo/swimmers-ready-to-swim-on-pool-2062702/)
 
 ## Purpose, Values, Strategies, and Priorities
 
