@@ -7,4 +7,4 @@
 * [Adaptation & Celebration: Using Your Own Data](adaptation-and-celebration-using-your-own-data.md)
 * [Application Features](application-features.md)
 * [Resources](resources.md)
-* [© 2022-24 JustOrg Design LLC](https://www.justorgdesign.com/)
+* [© 2022-25 JustOrg Design LLC](https://www.justorgdesign.com/)
