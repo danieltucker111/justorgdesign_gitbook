@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-06-18 at 6.24.18 PM.png
-coverY: -90.3421052631579
+cover: .gitbook/assets/pexels-nick-rush-2508183-11211143.jpg
+coverY: 0
 layout:
   cover:
     visible: true
