@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/Intro to JoD (1).jpg
-coverY: -52.5283203125
+coverY: -181.71015625
 layout:
   cover:
     visible: true

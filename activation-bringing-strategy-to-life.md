@@ -3,7 +3,7 @@ description: >-
   In this section, we define the core terms and processes of strategy
   activation–how you bring strategy to life in the course of your work every day
   across the organization.
-cover: .gitbook/assets/pexels-david-hou-1637526441-31820084.jpg
+cover: .gitbook/assets/Screenshot 2025-06-18 at 6.22.59 PM.png
 coverY: 0
 layout:
   cover:

@@ -3,7 +3,7 @@ description: >-
   In this section, we define terms and guide the process for the foundational
   work necessary to activate strategy across your organization using the JustOrg
   Design system.
-cover: .gitbook/assets/pexels-emily-rose-1076056-2062702.jpg
+cover: .gitbook/assets/Screenshot 2025-06-18 at 6.20.35 PM.png
 coverY: 0
 layout:
   cover:
