@@ -23,7 +23,7 @@ layout:
 
 # Getting Set: Designing for Strategy Activation
 
-Ai generated image
+_Ai generated image_
 
 ## Purpose, Values, Strategies, and Priorities
 

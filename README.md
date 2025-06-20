@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-06-19 at 11.31.12 AM.png
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
 coverY: 0
 layout:
   cover:
@@ -18,10 +18,6 @@ layout:
 ---
 
 # Welcome from the Co-Founders
-
-Image credit: [Ekza One](https://www.instagram.com/ekzaone/?hl=en)
-
-
 
 At JustOrg Design, our purpose is to cultivate and sustain the practice of strategic alignment in justice-committed organizations.
 

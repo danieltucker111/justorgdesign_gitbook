@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
+cover: .gitbook/assets/Screenshot 2025-06-19 at 5.49.29 PM.png
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
 
 # Defining Organizational Design
 
-
+_Ai generated image_
 
 At JustOrg Design, we define organizational design as:
 

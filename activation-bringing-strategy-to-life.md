@@ -23,7 +23,7 @@ layout:
 
 # Activation: Bringing Strategy to Life
 
-Ai generated image
+_Ai generated image_
 
 ## The Planner
 
