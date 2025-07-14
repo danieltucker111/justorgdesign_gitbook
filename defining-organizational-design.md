@@ -1,20 +1,6 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-06-19 at 5.49.29 PM.png
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Defining Organizational Design

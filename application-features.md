@@ -3,22 +3,8 @@ description: >-
   The JustOrg Design application is a powerful, fully integrated set of all
   tools necessary for enabling the practice of strategic alignment within and
   across justice-committed organizations.
-cover: .gitbook/assets/Screenshot 2024-07-12 at 10.48.44 AM.png
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Application Features

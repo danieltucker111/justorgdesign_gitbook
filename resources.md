@@ -1,20 +1,6 @@
 ---
-cover: .gitbook/assets/pexels-pixabay-267705 (1).jpg
-coverY: 22.050761421319795
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
+coverY: 0
 ---
 
 # Resources
@@ -61,7 +47,7 @@ by Jeroen Kraaijenbrin
 
 
 
-[**The Four Principles of Purpose-Driven Board Leadership**](https://ssir.org/articles/entry/the\_four\_principles\_of\_purpose\_driven\_board\_leadership)\
+[**The Four Principles of Purpose-Driven Board Leadership**](https://ssir.org/articles/entry/the_four_principles_of_purpose_driven_board_leadership)\
 by Anne Wallestad
 
 </details>

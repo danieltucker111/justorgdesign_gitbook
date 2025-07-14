@@ -3,22 +3,8 @@ description: >-
   In this section, we define terms and guide the process for the foundational
   work necessary to activate strategy across your organization using the JustOrg
   Design system.
-cover: .gitbook/assets/create_a_hero_image_for_this_title.jpeg
+cover: .gitbook/assets/Screenshot 2025-06-19 at 11.08.40 AM.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Getting Set: Designing for Strategy Activation
