@@ -9,8 +9,6 @@ coverY: 0
 
 # Activation: Bringing Strategy to Life
 
-_Ai generated image_
-
 ## The Planner
 
 Group Conveners, with the guidance and support of their Sponsors, manage their bodies of work in the Planner. Robust and consistent use of the Planner between full group meetings is essential to the JustOrg Design system and to strategy activation and alignment. It is not optional for Conveners and Sponsors to manage the work in the Planner. Below are the elements of the Planner.

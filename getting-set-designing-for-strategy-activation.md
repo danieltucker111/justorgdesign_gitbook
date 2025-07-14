@@ -9,8 +9,6 @@ coverY: 0
 
 # Getting Set: Designing for Strategy Activation
 
-_Ai generated image_
-
 ## Purpose, Values, Strategies, and Priorities
 
 We use four key terms that everyone on staff and board can learn to engage in strategy activation. It’s critical that leadership commits to using words hyper-consistently so that everyone can learn and speak the language of strategy across your organization.

@@ -5,8 +5,6 @@ coverY: 0
 
 # Defining Organizational Design
 
-_Ai generated image_
-
 At JustOrg Design, we define organizational design as:
 
 > the intentional and ongoing co-activation of organizational strategy,\

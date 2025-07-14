@@ -5,10 +5,6 @@ coverY: 0
 
 # Resources
 
-Image credit: [Pixabay on pexels](https://www.pexels.com/photo/book-book-pages-eyeglasses-knowledge-267705/)
-
-
-
 This is a list of resources curated specifically for people implementing JustOrg Design. We believe these authors and practices are especially relevant to the critical linkage between strategy, structure, and decision-making, as well to the practice of facilitation across functions and levels of positional power.\
 
 
